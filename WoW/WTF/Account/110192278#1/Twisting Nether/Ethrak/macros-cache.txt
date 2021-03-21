@@ -1,0 +1,10 @@
+VER 3 0100000000000001 "AvatarTrink" "INV_MISC_QUESTIONMARK"
+#showtooltip Avatar
+/cast Avatar
+/use 13
+END
+VER 3 0100000000000002 "MS" "INV_MISC_QUESTIONMARK"
+#showtooltip Mortal Strike
+/cast Sharpen Blade(PvP Talent)
+/cast Mortal Strike
+END

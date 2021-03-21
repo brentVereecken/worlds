@@ -1,0 +1,12 @@
+BagBrother: disabled
+AstralKeys: disabled
+FontDamageChanger: disabled
+BigWigs_Core: enabled
+BigWigs_Options: enabled
+BigWigs_Plugins: enabled
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+MikScrollingBattleText: disabled
+TomCats: enabled
+TomCats-Nazjatar: disabled
+EasyFrames: disabled

@@ -1,0 +1,4 @@
+VER 3 0100000000000001 "Blizzard" "INV_MISC_QUESTIONMARK"
+#showtooltip Blizzard
+/cast [@cursor] Blizzard
+END
