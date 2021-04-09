@@ -1,0 +1,76 @@
+VER 3 000000000000001A "ancient hysteria" "132096"
+/cast ancient hysteria
+END
+VER 3 0000000000000012 "chicken" "Ability_Creature_Cursed_03"
+/chicken
+END
+VER 3 0000000000000016 "Decursive" "1"
+/stopcasting
+/cast [@mouseover,nomod,exists] Remove Corruption;  [@mouseover,exists,mod:ctrl] Cyclone; [@mouseover,exists,mod:shift] Remove Corruption
+END
+VER 3 000000000000001E "egg" "136103"
+/use Brightly Colored Egg
+END
+VER 3 0000000000000021 "focus 1" "254884"
+/focus [target=arena1]
+END
+VER 3 0000000000000022 "focus 2" "254884"
+/focus [target=arena2]
+END
+VER 3 0000000000000002 "horde" "Ability_BullRush"
+/y  FOR THE  HORDE !!!!
+/charge
+END
+VER 3 000000000000001C "interu" "ABILITY_DRUID_DEMORALIZINGROAR"
+/cast bear form
+/cast wild charge
+END
+VER 3 0000000000000017 "kiss" "SPELL_SHADOW_DETECTINVISIBILITY"
+/use Warts-B-Gone Lip Balm
+/kiss
+END
+VER 3 0000000000000023 "LOL" "132781"
+/y u moeder 
+/laugh 
+/rude
+END
+VER 3 0000000000000019 "love" "ACHIEVEMENT_GUILDPERK_MASSRESURRECTION"
+/love
+END
+VER 3 0000000000000015 "money" "SPELL_SHADOW_DEMONBREATH"
+/target risen soldier
+/cast ice lance
+END
+VER 3 000000000000001B "mount" "INV_MISC_QUESTIONMARK"
+/dismount [mounted]
+/run SetMapToCurrentZone() local f,g,c,s="Drake of the West Wind","Llothien Prowler",GetCurrentMapContinent() s=(IsFlyableArea() and c>-1 and c<7) and f or g CastSpellByName(s) SetMacroSpell(GetRunningMacro(),s)
+END
+VER 3 0000000000000018 "ravasaur" "Ability_Creature_Poison_01"
+/way 68.9 61.2
+/way 63.0 63.2
+/way 62.2 65.2
+/way 62.0 73.6
+/way 68.9 66.6
+END
+VER 3 0000000000000014 "sheep" "Ability_Hunter_Pet_Devilsaur"
+ #tooltip
+/cast [target=focus,modifier: shift] Polymorph; Polymorph
+END
+VER 3 000000000000001F "shizzle" "1305156"
+/use Corrupted Gladiator's Badge
+/cast Eye Beam
+END
+VER 3 000000000000001D "skriptt" "136048"
+/run local a={45470,47207,47208,47209,47210,47211,47212,47213}for i,q in ipairs(a)do print(format("Page %s: %s",i, IsQuestFlaggedCompleted(q) and "\124cFF00FF00Done\124r" or "\124cFFFF0000Not Done\124r")) end
+END
+VER 3 0000000000000020 "vault" "136103"
+/run LoadAddOn("Blizzard_WeeklyRewards"); WeeklyRewardsFrame:Show()
+END
+VER 3 0000000000000006 "vicrory" "Ability_Creature_Poison_02"
+/y victory!!
+/cheer
+END
+VER 3 000000000000000C "wave" "Ability_Creature_Cursed_05"
+/hello
+/wave
+END

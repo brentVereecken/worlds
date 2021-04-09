@@ -1,0 +1,6 @@
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+HandyNotes_LegionRaresTreasures: disabled
+HandyNotes_SummerFestival: disabled
+HandyNotes_WarfrontRares: disabled
+QuestCompletist: disabled

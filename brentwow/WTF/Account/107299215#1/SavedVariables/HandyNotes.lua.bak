@@ -1,0 +1,367 @@
+
+HandyNotesDB = {
+	["profileKeys"] = {
+		["Gorotski - Sylvanas"] = "Gorotski - Sylvanas",
+		["Massivebank - Magtheridon"] = "Massivebank - Magtheridon",
+		["Dfasgdrsghdf - Twisting Nether"] = "Dfasgdrsghdf - Twisting Nether",
+		["Lightseeber - Argent Dawn"] = "Lightseeber - Argent Dawn",
+		["Wewewewdsd - Magtheridon"] = "Wewewewdsd - Magtheridon",
+		["Felreefer - Sylvanas"] = "Felreefer - Sylvanas",
+		["Mantrax - Defias Brotherhood"] = "Mantrax - Defias Brotherhood",
+		["Crowkiller - Alonsus"] = "Crowkiller - Alonsus",
+		["Tgkjsfeg - Argent Dawn"] = "Tgkjsfeg - Argent Dawn",
+		["Robøt - Silvermoon"] = "Robøt - Silvermoon",
+		["Iillith - Argent Dawn"] = "Iillith - Argent Dawn",
+		["Wyfu - Silvermoon"] = "Wyfu - Silvermoon",
+		["Alinaa - Argent Dawn"] = "Alinaa - Argent Dawn",
+		["Vlaming - Twisting Nether"] = "Vlaming - Twisting Nether",
+		["Nicoledoshi - Silvermoon"] = "Nicoledoshi - Silvermoon",
+		["Gfdsggdf - Argent Dawn"] = "Gfdsggdf - Argent Dawn",
+		["Lialina - Silvermoon"] = "Lialina - Silvermoon",
+		["Gdsfgdfsggh - Twisting Nether"] = "Gdsfgdfsggh - Twisting Nether",
+		["Aramaki - Silvermoon"] = "Aramaki - Silvermoon",
+		["Siveron - Magtheridon"] = "Siveron - Magtheridon",
+		["Adgfasgf - Magtheridon"] = "Adgfasgf - Magtheridon",
+		["Ftivryd - Magtheridon"] = "Ftivryd - Magtheridon",
+		["Gffdshasd - Argent Dawn"] = "Gffdshasd - Argent Dawn",
+		["Warewqrqwr - Argent Dawn"] = "Warewqrqwr - Argent Dawn",
+		["Iillith - Ravencrest"] = "Iillith - Ravencrest",
+		["Vayegra - Magtheridon"] = "Vayegra - Magtheridon",
+		["Ghfdrtrt - Argent Dawn"] = "Ghfdrtrt - Argent Dawn",
+		["Niapeht - Alonsus"] = "Niapeht - Alonsus",
+		["Bhumbhum - Argent Dawn"] = "Bhumbhum - Argent Dawn",
+		["Lialina - Argent Dawn"] = "Lialina - Argent Dawn",
+		["Whorny - Magtheridon"] = "Whorny - Magtheridon",
+		["Asdfasdfews - Argent Dawn"] = "Asdfasdfews - Argent Dawn",
+		["Dsgghjaer - Argent Dawn"] = "Dsgghjaer - Argent Dawn",
+		["Felreefer - Magtheridon"] = "Felreefer - Magtheridon",
+		["Dfhujse - Argent Dawn"] = "Dfhujse - Argent Dawn",
+		["Aewaerqwr - Magtheridon"] = "Aewaerqwr - Magtheridon",
+		["Aace - Argent Dawn"] = "Aace - Argent Dawn",
+		["Doshi - Argent Dawn"] = "Doshi - Argent Dawn",
+		["Charmfarmlol - Argent Dawn"] = "Charmfarmlol - Argent Dawn",
+		["Oufti - Ravencrest"] = "Oufti - Ravencrest",
+		["Dawdhauiw - Magtheridon"] = "Dawdhauiw - Magtheridon",
+		["Monhan - Silvermoon"] = "Monhan - Silvermoon",
+		["Sdfsghdh - Argent Dawn"] = "Sdfsghdh - Argent Dawn",
+		["Asdfghjhfgj - Silvermoon"] = "Asdfghjhfgj - Silvermoon",
+		["Squirtstar - Magtheridon"] = "Squirtstar - Magtheridon",
+		["Rootkid - Argent Dawn"] = "Rootkid - Argent Dawn",
+		["Irohasu - Magtheridon"] = "Irohasu - Magtheridon",
+		["Fajtehug - Argent Dawn"] = "Fajtehug - Argent Dawn",
+		["Oufti - Argent Dawn"] = "Oufti - Argent Dawn",
+		["Surytyeqw - Argent Dawn"] = "Surytyeqw - Argent Dawn",
+		["Lillbits - Silvermoon"] = "Lillbits - Silvermoon",
+		["Throated - Magtheridon"] = "Throated - Magtheridon",
+		["Shamanal - Silvermoon"] = "Shamanal - Silvermoon",
+		["Samsepiol - Silvermoon"] = "Samsepiol - Silvermoon",
+		["Dsfzahsawds - Silvermoon"] = "Dsfzahsawds - Silvermoon",
+		["Dasfasd - Argent Dawn"] = "Dasfasd - Argent Dawn",
+		["Rootkid - Ravencrest"] = "Rootkid - Ravencrest",
+		["Safdsfas - Argent Dawn"] = "Safdsfas - Argent Dawn",
+		["Esgasdasd - Argent Dawn"] = "Esgasdasd - Argent Dawn",
+	},
+	["profiles"] = {
+		["Gorotski - Sylvanas"] = {
+		},
+		["Massivebank - Magtheridon"] = {
+		},
+		["Dfasgdrsghdf - Twisting Nether"] = {
+		},
+		["Lightseeber - Argent Dawn"] = {
+		},
+		["Wewewewdsd - Magtheridon"] = {
+		},
+		["Felreefer - Sylvanas"] = {
+		},
+		["Mantrax - Defias Brotherhood"] = {
+		},
+		["Crowkiller - Alonsus"] = {
+		},
+		["Tgkjsfeg - Argent Dawn"] = {
+		},
+		["Robøt - Silvermoon"] = {
+		},
+		["Iillith - Argent Dawn"] = {
+		},
+		["Wyfu - Silvermoon"] = {
+		},
+		["Alinaa - Argent Dawn"] = {
+		},
+		["Vlaming - Twisting Nether"] = {
+		},
+		["Nicoledoshi - Silvermoon"] = {
+		},
+		["Gfdsggdf - Argent Dawn"] = {
+		},
+		["Lialina - Silvermoon"] = {
+		},
+		["Gdsfgdfsggh - Twisting Nether"] = {
+		},
+		["Aramaki - Silvermoon"] = {
+		},
+		["Siveron - Magtheridon"] = {
+		},
+		["Adgfasgf - Magtheridon"] = {
+		},
+		["Ftivryd - Magtheridon"] = {
+		},
+		["Gffdshasd - Argent Dawn"] = {
+		},
+		["Warewqrqwr - Argent Dawn"] = {
+		},
+		["Iillith - Ravencrest"] = {
+		},
+		["Vayegra - Magtheridon"] = {
+		},
+		["Ghfdrtrt - Argent Dawn"] = {
+		},
+		["Niapeht - Alonsus"] = {
+		},
+		["Bhumbhum - Argent Dawn"] = {
+		},
+		["Lialina - Argent Dawn"] = {
+		},
+		["Whorny - Magtheridon"] = {
+		},
+		["Asdfasdfews - Argent Dawn"] = {
+		},
+		["Dsgghjaer - Argent Dawn"] = {
+		},
+		["Felreefer - Magtheridon"] = {
+		},
+		["Dfhujse - Argent Dawn"] = {
+		},
+		["Aewaerqwr - Magtheridon"] = {
+		},
+		["Aace - Argent Dawn"] = {
+		},
+		["Doshi - Argent Dawn"] = {
+		},
+		["Charmfarmlol - Argent Dawn"] = {
+		},
+		["Oufti - Ravencrest"] = {
+		},
+		["Dawdhauiw - Magtheridon"] = {
+		},
+		["Monhan - Silvermoon"] = {
+		},
+		["Sdfsghdh - Argent Dawn"] = {
+		},
+		["Asdfghjhfgj - Silvermoon"] = {
+		},
+		["Squirtstar - Magtheridon"] = {
+		},
+		["Rootkid - Argent Dawn"] = {
+		},
+		["Irohasu - Magtheridon"] = {
+		},
+		["Fajtehug - Argent Dawn"] = {
+		},
+		["Oufti - Argent Dawn"] = {
+		},
+		["Surytyeqw - Argent Dawn"] = {
+		},
+		["Lillbits - Silvermoon"] = {
+		},
+		["Throated - Magtheridon"] = {
+		},
+		["Shamanal - Silvermoon"] = {
+		},
+		["Samsepiol - Silvermoon"] = {
+		},
+		["Dsfzahsawds - Silvermoon"] = {
+		},
+		["Dasfasd - Argent Dawn"] = {
+		},
+		["Rootkid - Ravencrest"] = {
+		},
+		["Safdsfas - Argent Dawn"] = {
+		},
+		["Esgasdasd - Argent Dawn"] = {
+		},
+	},
+}
+HandyNotes_HandyNotesDB = {
+	["profileKeys"] = {
+		["Gorotski - Sylvanas"] = "Gorotski - Sylvanas",
+		["Massivebank - Magtheridon"] = "Massivebank - Magtheridon",
+		["Dfasgdrsghdf - Twisting Nether"] = "Dfasgdrsghdf - Twisting Nether",
+		["Lightseeber - Argent Dawn"] = "Lightseeber - Argent Dawn",
+		["Wewewewdsd - Magtheridon"] = "Wewewewdsd - Magtheridon",
+		["Felreefer - Sylvanas"] = "Felreefer - Sylvanas",
+		["Mantrax - Defias Brotherhood"] = "Mantrax - Defias Brotherhood",
+		["Crowkiller - Alonsus"] = "Crowkiller - Alonsus",
+		["Tgkjsfeg - Argent Dawn"] = "Tgkjsfeg - Argent Dawn",
+		["Robøt - Silvermoon"] = "Robøt - Silvermoon",
+		["Iillith - Argent Dawn"] = "Iillith - Argent Dawn",
+		["Wyfu - Silvermoon"] = "Wyfu - Silvermoon",
+		["Alinaa - Argent Dawn"] = "Alinaa - Argent Dawn",
+		["Vlaming - Twisting Nether"] = "Vlaming - Twisting Nether",
+		["Nicoledoshi - Silvermoon"] = "Nicoledoshi - Silvermoon",
+		["Gfdsggdf - Argent Dawn"] = "Gfdsggdf - Argent Dawn",
+		["Lialina - Silvermoon"] = "Lialina - Silvermoon",
+		["Gdsfgdfsggh - Twisting Nether"] = "Gdsfgdfsggh - Twisting Nether",
+		["Aramaki - Silvermoon"] = "Aramaki - Silvermoon",
+		["Siveron - Magtheridon"] = "Siveron - Magtheridon",
+		["Adgfasgf - Magtheridon"] = "Adgfasgf - Magtheridon",
+		["Ftivryd - Magtheridon"] = "Ftivryd - Magtheridon",
+		["Gffdshasd - Argent Dawn"] = "Gffdshasd - Argent Dawn",
+		["Warewqrqwr - Argent Dawn"] = "Warewqrqwr - Argent Dawn",
+		["Iillith - Ravencrest"] = "Iillith - Ravencrest",
+		["Vayegra - Magtheridon"] = "Vayegra - Magtheridon",
+		["Ghfdrtrt - Argent Dawn"] = "Ghfdrtrt - Argent Dawn",
+		["Niapeht - Alonsus"] = "Niapeht - Alonsus",
+		["Bhumbhum - Argent Dawn"] = "Bhumbhum - Argent Dawn",
+		["Lialina - Argent Dawn"] = "Lialina - Argent Dawn",
+		["Whorny - Magtheridon"] = "Whorny - Magtheridon",
+		["Asdfasdfews - Argent Dawn"] = "Asdfasdfews - Argent Dawn",
+		["Dsgghjaer - Argent Dawn"] = "Dsgghjaer - Argent Dawn",
+		["Felreefer - Magtheridon"] = "Felreefer - Magtheridon",
+		["Dfhujse - Argent Dawn"] = "Dfhujse - Argent Dawn",
+		["Aewaerqwr - Magtheridon"] = "Aewaerqwr - Magtheridon",
+		["Aace - Argent Dawn"] = "Aace - Argent Dawn",
+		["Doshi - Argent Dawn"] = "Doshi - Argent Dawn",
+		["Charmfarmlol - Argent Dawn"] = "Charmfarmlol - Argent Dawn",
+		["Oufti - Ravencrest"] = "Oufti - Ravencrest",
+		["Dawdhauiw - Magtheridon"] = "Dawdhauiw - Magtheridon",
+		["Monhan - Silvermoon"] = "Monhan - Silvermoon",
+		["Sdfsghdh - Argent Dawn"] = "Sdfsghdh - Argent Dawn",
+		["Asdfghjhfgj - Silvermoon"] = "Asdfghjhfgj - Silvermoon",
+		["Squirtstar - Magtheridon"] = "Squirtstar - Magtheridon",
+		["Rootkid - Argent Dawn"] = "Rootkid - Argent Dawn",
+		["Irohasu - Magtheridon"] = "Irohasu - Magtheridon",
+		["Fajtehug - Argent Dawn"] = "Fajtehug - Argent Dawn",
+		["Oufti - Argent Dawn"] = "Oufti - Argent Dawn",
+		["Surytyeqw - Argent Dawn"] = "Surytyeqw - Argent Dawn",
+		["Lillbits - Silvermoon"] = "Lillbits - Silvermoon",
+		["Throated - Magtheridon"] = "Throated - Magtheridon",
+		["Shamanal - Silvermoon"] = "Shamanal - Silvermoon",
+		["Samsepiol - Silvermoon"] = "Samsepiol - Silvermoon",
+		["Dsfzahsawds - Silvermoon"] = "Dsfzahsawds - Silvermoon",
+		["Dasfasd - Argent Dawn"] = "Dasfasd - Argent Dawn",
+		["Rootkid - Ravencrest"] = "Rootkid - Ravencrest",
+		["Safdsfas - Argent Dawn"] = "Safdsfas - Argent Dawn",
+		["Esgasdasd - Argent Dawn"] = "Esgasdasd - Argent Dawn",
+	},
+	["profiles"] = {
+		["Gorotski - Sylvanas"] = {
+		},
+		["Massivebank - Magtheridon"] = {
+		},
+		["Dfasgdrsghdf - Twisting Nether"] = {
+		},
+		["Lightseeber - Argent Dawn"] = {
+		},
+		["Wewewewdsd - Magtheridon"] = {
+		},
+		["Felreefer - Sylvanas"] = {
+		},
+		["Mantrax - Defias Brotherhood"] = {
+		},
+		["Crowkiller - Alonsus"] = {
+		},
+		["Tgkjsfeg - Argent Dawn"] = {
+		},
+		["Robøt - Silvermoon"] = {
+		},
+		["Iillith - Argent Dawn"] = {
+		},
+		["Wyfu - Silvermoon"] = {
+		},
+		["Alinaa - Argent Dawn"] = {
+		},
+		["Vlaming - Twisting Nether"] = {
+		},
+		["Nicoledoshi - Silvermoon"] = {
+		},
+		["Gfdsggdf - Argent Dawn"] = {
+		},
+		["Lialina - Silvermoon"] = {
+		},
+		["Gdsfgdfsggh - Twisting Nether"] = {
+		},
+		["Aramaki - Silvermoon"] = {
+		},
+		["Siveron - Magtheridon"] = {
+		},
+		["Adgfasgf - Magtheridon"] = {
+		},
+		["Ftivryd - Magtheridon"] = {
+		},
+		["Gffdshasd - Argent Dawn"] = {
+		},
+		["Warewqrqwr - Argent Dawn"] = {
+		},
+		["Iillith - Ravencrest"] = {
+		},
+		["Vayegra - Magtheridon"] = {
+		},
+		["Ghfdrtrt - Argent Dawn"] = {
+		},
+		["Niapeht - Alonsus"] = {
+		},
+		["Bhumbhum - Argent Dawn"] = {
+		},
+		["Lialina - Argent Dawn"] = {
+		},
+		["Whorny - Magtheridon"] = {
+		},
+		["Asdfasdfews - Argent Dawn"] = {
+		},
+		["Dsgghjaer - Argent Dawn"] = {
+		},
+		["Felreefer - Magtheridon"] = {
+		},
+		["Dfhujse - Argent Dawn"] = {
+		},
+		["Aewaerqwr - Magtheridon"] = {
+		},
+		["Aace - Argent Dawn"] = {
+		},
+		["Doshi - Argent Dawn"] = {
+		},
+		["Charmfarmlol - Argent Dawn"] = {
+		},
+		["Oufti - Ravencrest"] = {
+		},
+		["Dawdhauiw - Magtheridon"] = {
+		},
+		["Monhan - Silvermoon"] = {
+		},
+		["Sdfsghdh - Argent Dawn"] = {
+		},
+		["Asdfghjhfgj - Silvermoon"] = {
+		},
+		["Squirtstar - Magtheridon"] = {
+		},
+		["Rootkid - Argent Dawn"] = {
+		},
+		["Irohasu - Magtheridon"] = {
+		},
+		["Fajtehug - Argent Dawn"] = {
+		},
+		["Oufti - Argent Dawn"] = {
+		},
+		["Surytyeqw - Argent Dawn"] = {
+		},
+		["Lillbits - Silvermoon"] = {
+		},
+		["Throated - Magtheridon"] = {
+		},
+		["Shamanal - Silvermoon"] = {
+		},
+		["Samsepiol - Silvermoon"] = {
+		},
+		["Dsfzahsawds - Silvermoon"] = {
+		},
+		["Dasfasd - Argent Dawn"] = {
+		},
+		["Rootkid - Ravencrest"] = {
+		},
+		["Safdsfas - Argent Dawn"] = {
+		},
+		["Esgasdasd - Argent Dawn"] = {
+		},
+	},
+}

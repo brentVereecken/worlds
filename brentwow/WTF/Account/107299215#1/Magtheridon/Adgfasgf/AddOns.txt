@@ -1,0 +1,5 @@
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+WorldQuestsList: enabled
+totalRP3: disabled
+totalRP3_Data: disabled

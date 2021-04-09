@@ -1,0 +1,8 @@
+Version: 1
+Frame: MultiBarBottomLeft
+FrameLevel: 3
+Anchor: BOTTOM
+X: -144
+Y: 60
+W: 500
+H: 38

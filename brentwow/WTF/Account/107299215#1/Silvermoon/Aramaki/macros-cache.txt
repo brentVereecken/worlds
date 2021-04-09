@@ -1,0 +1,5 @@
+VER 3 0100000000000001 "Vanish" "132089"
+/cancelaura travel form, bear form
+/cast [nomod] !Prowl
+/cast [nomod,nostealth] !Shadowmeld
+END

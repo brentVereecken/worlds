@@ -1,0 +1,7 @@
+VER 3 0100000000000001 "chicken" "132131"
+END
+VER 3 0100000000000002 "Final reck" "INV_MISC_QUESTIONMARK"
+#show tooltip
+/cast Divine Toll(Kyrian)
+/use Sinful Aspirant's Relentless Brooch
+END

@@ -1,0 +1,12 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0324,
+	["LastKeybindingsSet"] = 1,
+	["LastPlayerFullName"] = "Massivebank-Magtheridon",
+	["AutoSelectScales"] = true,
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "ROGUE",
+	["LastAdded"] = 1,
+}
+PawnClassicScaleProviderOptions = nil

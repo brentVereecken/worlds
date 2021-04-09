@@ -1,0 +1,15 @@
+Version: 1
+Frame: TMW_CursorAnchor
+FrameLevel: 100
+Anchor: BOTTOM
+X: 194
+Y: 128
+W: 24
+H: 24
+Frame: MultiBarBottomLeft
+FrameLevel: 1
+Anchor: BOTTOM
+X: -17
+Y: 60
+W: 500
+H: 38

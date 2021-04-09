@@ -1,0 +1,4 @@
+VER 3 0100000000000001 "skull bash" "Ability_BullRush"
+/cast skull bash(bear form)
+/cast skull bash(cat form)s
+END

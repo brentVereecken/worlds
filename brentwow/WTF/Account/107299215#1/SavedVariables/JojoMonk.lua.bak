@@ -1,0 +1,10 @@
+
+JojoMonk_Config = {
+	["ActiveHurtSFX"] = true,
+	["ActiveQuoteSFX"] = true,
+	["ActiveSFX"] = true,
+	["ActiveDeadEliteSFX"] = true,
+	["ActiveCharacter"] = "Joseph Joestar (BM)",
+	["lang"] = "English",
+	["QuoteFrequencyTime"] = 600,
+}

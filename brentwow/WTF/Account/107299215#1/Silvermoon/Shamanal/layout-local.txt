@@ -1,0 +1,15 @@
+Version: 1
+Frame: Spy_MainWindow
+FrameLevel: 10
+Anchor: LEFT
+X: 0
+Y: 50
+W: 160
+H: 51
+Frame: MultiBarBottomLeft
+FrameLevel: 1
+Anchor: BOTTOM
+X: -144
+Y: 60
+W: 500
+H: 38

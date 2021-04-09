@@ -1,0 +1,94 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0324,
+	["LastPlayerFullName"] = "Niapeht-Alonsus",
+	["AutoSelectScales"] = true,
+	["ItemLevels"] = {
+		{
+			["ID"] = 64728,
+			["Level"] = 108,
+			["Link"] = "|cff0070dd|Hitem:64728:4209::52175:::::85:102::::::|h[Bloodthirsty Gladiator's Dragonhide Helm]|h|r",
+		}, -- [1]
+		{
+			["ID"] = 68174,
+			["Level"] = 108,
+			["Link"] = "|cff0070dd|Hitem:68174::::::::85:102::::::|h[Sweet Perfume Brooch]|h|r",
+		}, -- [2]
+		{
+			["ID"] = 64731,
+			["Level"] = 108,
+			["Link"] = "|cff0070dd|Hitem:64731:4205:::::::85:102::::::|h[Bloodthirsty Gladiator's Dragonhide Spaulders]|h|r",
+		}, -- [3]
+		nil, -- [4]
+		{
+			["ID"] = 72340,
+			["Level"] = 108,
+			["Link"] = "|cffa335ee|Hitem:72340::::::::85:102::::::|h[Ruthless Gladiator's Dragonhide Robes]|h|r",
+		}, -- [5]
+		{
+			["ID"] = 62446,
+			["Level"] = 108,
+			["Link"] = "|cff0070dd|Hitem:62446::::::::85:102::::::|h[Quicksand Belt]|h|r",
+		}, -- [6]
+		{
+			["ID"] = 59343,
+			["Level"] = 108,
+			["Link"] = "|cffa335ee|Hitem:59343::52232:52226:::::85:102::::::|h[Aberration's Leggings]|h|r",
+		}, -- [7]
+		{
+			["ID"] = 65178,
+			["Level"] = 108,
+			["Link"] = "|cff0070dd|Hitem:65178:4120:::::::85:102:::1:4536:::|h[VanCleef's Boots]|h|r",
+		}, -- [8]
+		{
+			["ID"] = 65798,
+			["Level"] = 105,
+			["Link"] = "|cff1eff00|Hitem:65798::::::::85:102::::::|h[Bandit Scourge Bracers]|h|r",
+		}, -- [9]
+		{
+			["ID"] = 64727,
+			["Level"] = 108,
+			["Link"] = "|cff0070dd|Hitem:64727::::::::85:102::::::|h[Bloodthirsty Gladiator's Dragonhide Gloves]|h|r",
+		}, -- [10]
+		{
+			["ID"] = 56310,
+			["Level"] = 108,
+			["AlsoFitsIn"] = 12,
+			["Link"] = "|cff0070dd|Hitem:56310::::::::85:102:::1:4536:::|h[Skullcracker Ring]|h|r",
+		}, -- [11]
+		{
+			["ID"] = 56310,
+			["Level"] = 108,
+			["AlsoFitsIn"] = 11,
+			["Link"] = "|cff0070dd|Hitem:56310::::::::85:103:::1:4536:::|h[Skullcracker Ring]|h|r",
+		}, -- [12]
+		{
+			["ID"] = 55874,
+			["Level"] = 108,
+			["AlsoFitsIn"] = 14,
+			["Link"] = "|cff0070dd|Hitem:55874::::::::85:102::::::|h[Tia's Grace]|h|r",
+		}, -- [13]
+		{
+			["ID"] = 64794,
+			["Level"] = 108,
+			["AlsoFitsIn"] = 13,
+			["Link"] = "|cff0070dd|Hitem:64794::::::::85:102::::::|h[Bloodthirsty Gladiator's Medallion of Tenacity]|h|r",
+		}, -- [14]
+		{
+			["ID"] = 69766,
+			["Level"] = 108,
+			["Link"] = "|cffa335ee|Hitem:69766::::::::85:102::::::|h[The Frost Lord's War Cloak]|h|r",
+		}, -- [15]
+		{
+			["ID"] = 65808,
+			["Level"] = 105,
+			["Link"] = "|cff1eff00|Hitem:65808::::::::85:102::::::|h[Orsis Polearm]|h|r",
+		}, -- [16]
+	},
+	["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "DRUID",
+	["LastAdded"] = 1,
+}
+PawnClassicScaleProviderOptions = nil

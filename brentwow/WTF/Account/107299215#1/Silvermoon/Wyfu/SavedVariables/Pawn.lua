@@ -1,0 +1,101 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0417,
+	["LastPlayerFullName"] = "Wyfu-Silvermoon",
+	["AutoSelectScales"] = true,
+	["ItemLevels"] = {
+		{
+			["ID"] = 113759,
+			["Level"] = 44,
+			["Link"] = "|cff0070dd|Hitem:113759::::::::39:258::1:2:4244:65:2:9:38:28:1696:::|h[Smoldercloth Cap of the Peerless]|h|r",
+		}, -- [1]
+		{
+			["ID"] = 143909,
+			["Level"] = 44,
+			["Link"] = "|cff0070dd|Hitem:143909::::::::38:257::22:1:7191:2:28:181:9:38:::|h[Sweet Perfume Brooch]|h|r",
+		}, -- [2]
+		{
+			["ID"] = 51974,
+			["Level"] = 43,
+			["Link"] = "|cff0070dd|Hitem:51974::::::::37:256::1:2:4244:1709:2:28:1693:9:37:::|h[Enumerated Shoulderpads of the Aurora]|h|r",
+		}, -- [3]
+		nil, -- [4]
+		{
+			["ID"] = 122384,
+			["Level"] = 45,
+			["Link"] = "|cff00ccff|Hitem:122384::::::::40:256:::1:582::::|h[Tattered Dreadmist Robe]|h|r",
+		}, -- [5]
+		{
+			["ID"] = 51968,
+			["Level"] = 42,
+			["Link"] = "|cff0070dd|Hitem:51968::::::::36:258::1:2:4244:1692:2:28:1693:9:36:::|h[Enumerated Wrap of the Fireflash]|h|r",
+		}, -- [6]
+		{
+			["ID"] = 122256,
+			["Level"] = 50,
+			["Link"] = "|cff00ccff|Hitem:122256::::::::44:257:::::::|h[Tattered Dreadmist Leggings]|h|r",
+		}, -- [7]
+		{
+			["ID"] = 159259,
+			["Level"] = 46,
+			["Link"] = "|cff0070dd|Hitem:159259::::::::40:256::19:3:4776:4802:6513:2:28:1226:9:40:::|h[Sandswept Sandals]|h|r",
+		}, -- [8]
+		{
+			["ID"] = 159227,
+			["Level"] = 48,
+			["Link"] = "|cff0070dd|Hitem:159227::::::::42:257::19:2:4776:6515:2:28:1220:9:42:::|h[Silk Cuffs of the Skycap'n]|h|r",
+		}, -- [9]
+		{
+			["ID"] = 65930,
+			["Level"] = 43,
+			["Link"] = "|cff0070dd|Hitem:65930::::::::37:256::11:1:6710:2:28:1925:9:37:::|h[Hands of Consequences]|h|r",
+		}, -- [10]
+		{
+			["ID"] = 158362,
+			["Level"] = 50,
+			["AlsoFitsIn"] = 12,
+			["Link"] = "|cff0070dd|Hitem:158362::::::::45:258::19:4:4776:4802:40:6515:2:28:1222:9:44:::|h[Lord Waycrest's Signet]|h|r",
+		}, -- [11]
+		{
+			["ID"] = 151456,
+			["Level"] = 42,
+			["AlsoFitsIn"] = 11,
+			["Link"] = "|cff0070dd|Hitem:151456::::::::36:256::1:1:6710:2:28:1925:9:36:::|h[Theka's Seal of Vigilance]|h|r",
+		}, -- [12]
+		{
+			["ID"] = 122361,
+			["Level"] = 50,
+			["AlsoFitsIn"] = 14,
+			["Link"] = "|cff00ccff|Hitem:122361::::::::44:257:::::::|h[Swift Hand of Justice]|h|r",
+		}, -- [13]
+		{
+			["ID"] = 122361,
+			["Level"] = 50,
+			["AlsoFitsIn"] = 13,
+			["Link"] = "|cff00ccff|Hitem:122361::::::::44:258:::::::|h[Swift Hand of Justice]|h|r",
+		}, -- [14]
+		{
+			["ID"] = 159294,
+			["Level"] = 50,
+			["Link"] = "|cff0070dd|Hitem:159294::::::::44:258::19:1:4776:2:28:1222:9:44:::|h[Raal's Bib]|h|r",
+		}, -- [15]
+		{
+			["ID"] = 159133,
+			["Level"] = 50,
+			["AlsoFitsIn"] = 17,
+			["Link"] = "|cff0070dd|Hitem:159133::::::::44:258::19:2:4776:6515:2:28:1222:9:44:::|h[Jagged Iris Sica]|h|r",
+		}, -- [16]
+		{
+			["ID"] = 159133,
+			["Level"] = 50,
+			["AlsoFitsIn"] = 16,
+			["Link"] = "|cff0070dd|Hitem:159133::::::::45:258::19:2:4776:6515:2:28:1222:9:44:::|h[Jagged Iris Sica]|h|r",
+		}, -- [17]
+	},
+	["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "PRIEST",
+	["LastAdded"] = 1,
+}
+PawnClassicScaleProviderOptions = nil
