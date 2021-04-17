@@ -1,8 +1,0 @@
-totalRP3: disabled
-totalRP3_Data: disabled
-HandyNotes_DungeonLocations: disabled
-HandyNotes_LegionRaresTreasures: disabled
-HandyNotes_SummerFestival: disabled
-HandyNotes_WarfrontRares: disabled
-QuestCompletist: disabled
-TRP3LocationToggle: disabled

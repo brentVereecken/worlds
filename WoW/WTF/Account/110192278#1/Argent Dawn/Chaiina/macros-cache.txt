@@ -1,5 +1,0 @@
-VER 3 0100000000000001 "Flagellation" "INV_MISC_QUESTIONMARK"
-#showtooltip Flagellation(Venthyr)
-/use Sinful Gladiator's Badge of Ferocity
-/cast Flagellation(Venthyr)
-END

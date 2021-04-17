@@ -1,2 +1,0 @@
-
-AucAdvancedStatSimpleData = nil

@@ -1,8 +1,0 @@
-
-RaiderIO_Config = {
-}
-RaiderIO_LastCharacter = "eu-Lialina-argent-dawn"
-RaiderIO_MissingCharacters = {
-	["eu-Lialina-argent-dawn"] = true,
-}
-RaiderIO_CachedRuns = nil

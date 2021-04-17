@@ -1,5 +1,0 @@
-VER 3 0100000000000001 "AvatarTrink" "INV_MISC_QUESTIONMARK"
-#showtooltip Avatar
-/cast Avatar
-/use 13
-END

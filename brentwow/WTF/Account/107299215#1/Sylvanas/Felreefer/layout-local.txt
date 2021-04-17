@@ -1,8 +1,0 @@
-Version: 1
-Frame: GladiusButtonFramearena1
-FrameLevel: 1
-Anchor: BOTTOMRIGHT
-X: 0
-Y: 0
-W: 160
-H: 52

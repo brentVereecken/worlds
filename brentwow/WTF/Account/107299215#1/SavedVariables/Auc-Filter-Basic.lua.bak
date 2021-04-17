@@ -1,2 +1,0 @@
-
-AucAdvancedFilterBasic_IgnoreList = nil

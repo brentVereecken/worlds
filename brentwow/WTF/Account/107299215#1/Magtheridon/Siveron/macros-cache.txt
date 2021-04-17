@@ -1,4 +1,0 @@
-VER 3 0100000000000001 "cd" "136048"
-/cast Icy Veins
-/use Corrupted Gladiator's Medallion
-END

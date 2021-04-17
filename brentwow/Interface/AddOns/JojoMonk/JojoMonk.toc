@@ -1,9 +1,0 @@
-## Interface: 80205
-## Title: JojoMonk Interface
-## Notes: Manage the different characters
-## Version: 4.0.0
-## Authors: legendary_xelar in lua and xml code.
-## OptionalDeps:   LibStub, LibUIDropDownMenu
-## SavedVariables: JojoMonk_Config
-Libs\Libs.xml
-JojoMonk.xml

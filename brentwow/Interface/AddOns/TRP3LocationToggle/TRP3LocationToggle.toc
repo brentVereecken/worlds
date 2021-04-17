@@ -1,9 +1,0 @@
-## Interface: 90002
-## Title: TRP3 Location Toggle
-## Version: 1.12
-## Notes: Adds a toolbar button to quickly enable/disable map location for TotalRP 3.
-## Author: iMintty_ (Curse)
-## Dependencies: TotalRP3
-
-Localization.lua
-TRP3LocationToggle.lua
