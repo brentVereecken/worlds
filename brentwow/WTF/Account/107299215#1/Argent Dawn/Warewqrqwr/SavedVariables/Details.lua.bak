@@ -1,0 +1,7239 @@
+
+_detalhes_database = {
+	["savedbuffs"] = {
+	},
+	["mythic_dungeon_id"] = 0,
+	["tabela_historico"] = {
+		["tabelas"] = {
+			{
+				{
+					["combatId"] = 26,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.004799,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Mangy Wolf"] = 189271,
+							},
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["classe"] = "PALADIN",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 189271.004799,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1591356581,
+							["friendlyfire_total"] = 0,
+							["spec"] = 70,
+							["nome"] = "Warewqrqwr",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[20271] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 189271,
+										["targets"] = {
+											["Mangy Wolf"] = 189271,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 189271,
+										["n_min"] = 189271,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 189271,
+										["c_max"] = 0,
+										["id"] = 20271,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["total"] = 189271.004799,
+							["serial"] = "Player-3702-098A139B",
+							["last_dps"] = 201138.1560018692,
+							["custom"] = 0,
+							["last_event"] = 1591356580,
+							["damage_taken"] = 0.004799,
+							["start_time"] = 1591356580,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.004934,
+							["damage_from"] = {
+								["Warewqrqwr"] = true,
+							},
+							["targets"] = {
+							},
+							["monster"] = true,
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.004934,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.004934,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3112-0-224-525-000059E98D",
+							["nome"] = "Mangy Wolf",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1591356581,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 189271.004934,
+							["start_time"] = 1591356581,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 26,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 26,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 26,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 70,
+							["grupo"] = true,
+							["buff_uptime"] = 2,
+							["nome"] = "Warewqrqwr",
+							["pets"] = {
+							},
+							["last_event"] = 1591356581,
+							["classe"] = "PALADIN",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[186403] = {
+										["activedamt"] = 1,
+										["id"] = 186403,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-3702-098A139B",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 26,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Warewqrqwr"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["overall_added"] = true,
+				["cleu_timeline"] = {
+				},
+				["alternate_power"] = {
+				},
+				["tempo_start"] = 1591356580,
+				["enemy"] = "Mangy Wolf",
+				["combat_counter"] = 36,
+				["playing_solo"] = true,
+				["totals"] = {
+					189270.990745, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatEndedAt"] = 72141.532,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "13:29:41",
+				["end_time"] = 72141.532,
+				["totals_grupo"] = {
+					189271, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["combat_id"] = 26,
+				["TotalElapsedCombatTime"] = 72141.532,
+				["frags_need_refresh"] = true,
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Warewqrqwr"] = 189271.004799,
+						}, -- [1]
+					},
+				},
+				["frags"] = {
+					["Mangy Wolf"] = 1,
+				},
+				["data_fim"] = "13:29:42",
+				["instance_type"] = "none",
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 72140.591,
+				["contra"] = "Mangy Wolf",
+				["TimeData"] = {
+				},
+			}, -- [1]
+			{
+				{
+					["combatId"] = 25,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.005616,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Mangy Wolf"] = 182611,
+							},
+							["total"] = 182611.005616,
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["classe"] = "PALADIN",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 182611.005616,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1591356577,
+							["friendlyfire_total"] = 0,
+							["spec"] = 70,
+							["nome"] = "Warewqrqwr",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[184575] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 182611,
+										["targets"] = {
+											["Mangy Wolf"] = 182611,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 182611,
+										["n_min"] = 182611,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 182611,
+										["c_max"] = 0,
+										["id"] = 184575,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-3702-098A139B",
+							["last_dps"] = 1826110.05616,
+							["custom"] = 0,
+							["last_event"] = 1591356576,
+							["damage_taken"] = 0.005616,
+							["start_time"] = 1591356576,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.008221,
+							["damage_from"] = {
+								["Warewqrqwr"] = true,
+							},
+							["targets"] = {
+							},
+							["monster"] = true,
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.008221,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.008221,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3112-0-224-525-000059E981",
+							["nome"] = "Mangy Wolf",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1591356577,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 182611.008221,
+							["start_time"] = 1591356577,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 25,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 25,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.004552,
+							["resource"] = 0.004552,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["classe"] = "PALADIN",
+							["passiveover"] = 0.004552,
+							["total"] = 0.004552,
+							["nome"] = "Warewqrqwr",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["resource_type"] = 9,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.004552,
+							["last_event"] = 1591356579,
+							["spec"] = 70,
+							["tipo"] = 3,
+							["serial"] = "Player-3702-098A139B",
+							["totalover"] = 0.004552,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 25,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 70,
+							["grupo"] = true,
+							["buff_uptime"] = 2,
+							["nome"] = "Warewqrqwr",
+							["pets"] = {
+							},
+							["last_event"] = 1591356577,
+							["classe"] = "PALADIN",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[186403] = {
+										["activedamt"] = 1,
+										["id"] = 186403,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-3702-098A139B",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 25,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Warewqrqwr"] = true,
+				},
+				["CombatStartedAt"] = 72139.829,
+				["tempo_start"] = 1591356576,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 35,
+				["playing_solo"] = true,
+				["totals"] = {
+					182611, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["totals_grupo"] = {
+					182611, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "13:29:38",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Mangy Wolf",
+				["TotalElapsedCombatTime"] = 72137.48,
+				["CombatEndedAt"] = 72137.48,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Warewqrqwr"] = 182611.005616,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 72137.48,
+				["combat_id"] = 25,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["overall_added"] = true,
+				["spells_cast_timeline"] = {
+				},
+				["player_last_events"] = {
+				},
+				["data_inicio"] = "13:29:37",
+				["CombatSkillCache"] = {
+				},
+				["frags"] = {
+					["Mangy Wolf"] = 1,
+				},
+				["start_time"] = 72136.56,
+				["TimeData"] = {
+				},
+				["contra"] = "Mangy Wolf",
+			}, -- [2]
+			{
+				{
+					["combatId"] = 24,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.007947,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Mangy Wolf"] = 105064,
+							},
+							["total"] = 105064.007947,
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["classe"] = "PALADIN",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 105064.007947,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1591356572,
+							["friendlyfire_total"] = 0,
+							["spec"] = 70,
+							["nome"] = "Warewqrqwr",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 105064,
+										["targets"] = {
+											["Mangy Wolf"] = 105064,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 105064,
+										["n_min"] = 105064,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 105064,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									}, -- [1]
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-3702-098A139B",
+							["last_dps"] = 87045.57410724596,
+							["custom"] = 0,
+							["last_event"] = 1591356571,
+							["damage_taken"] = 0.007947,
+							["start_time"] = 1591356571,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.002104,
+							["damage_from"] = {
+								["Warewqrqwr"] = true,
+							},
+							["targets"] = {
+								["Squirrel"] = 5,
+							},
+							["pets"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 5.002104,
+							["monster"] = true,
+							["fight_component"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1591356576,
+							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
+							["nome"] = "Mangy Wolf",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 5,
+										["targets"] = {
+											["Squirrel"] = 5,
+											["Warewqrqwr"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 5,
+										["n_min"] = 5,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 5,
+										["c_max"] = 0,
+										["MISS"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									}, -- [1]
+								},
+							},
+							["total"] = 5.002104,
+							["serial"] = "Creature-0-3112-0-224-525-0000596A83",
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1591356575,
+							["damage_taken"] = 105064.002104,
+							["start_time"] = 1591356572,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 24,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 24,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.002461,
+							["resource"] = 1.002461,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["classe"] = "PALADIN",
+							["passiveover"] = 0.002461,
+							["total"] = 0.002461,
+							["nome"] = "Warewqrqwr",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["resource_type"] = 9,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.002461,
+							["last_event"] = 1591356576,
+							["spec"] = 70,
+							["tipo"] = 3,
+							["serial"] = "Player-3702-098A139B",
+							["totalover"] = 0.002461,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 24,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 70,
+							["grupo"] = true,
+							["buff_uptime"] = 2,
+							["nome"] = "Warewqrqwr",
+							["pets"] = {
+							},
+							["last_event"] = 1591356572,
+							["classe"] = "PALADIN",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[186403] = {
+										["activedamt"] = 1,
+										["id"] = 186403,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-3702-098A139B",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 24,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Warewqrqwr"] = true,
+				},
+				["CombatStartedAt"] = 72136.56,
+				["tempo_start"] = 1591356571,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 34,
+				["playing_solo"] = true,
+				["totals"] = {
+					105068.991218, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["totals_grupo"] = {
+					105064, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "13:29:33",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Mangy Wolf",
+				["TotalElapsedCombatTime"] = 1.206999999994878,
+				["CombatEndedAt"] = 72132.622,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Warewqrqwr"] = 105064.007947,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 72132.622,
+				["combat_id"] = 24,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["overall_added"] = true,
+				["spells_cast_timeline"] = {
+				},
+				["player_last_events"] = {
+				},
+				["data_inicio"] = "13:29:32",
+				["CombatSkillCache"] = {
+				},
+				["frags"] = {
+					["Mangy Wolf"] = 1,
+				},
+				["start_time"] = 72131.41500000001,
+				["TimeData"] = {
+				},
+				["contra"] = "Mangy Wolf",
+			}, -- [3]
+			{
+				{
+					["combatId"] = 23,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.00756,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Mangy Wolf"] = 378552,
+							},
+							["total"] = 378552.00756,
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["classe"] = "PALADIN",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 378552.00756,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1591356567,
+							["friendlyfire_total"] = 0,
+							["spec"] = 70,
+							["nome"] = "Warewqrqwr",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[20271] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 378552,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Mangy Wolf"] = 378552,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 378552,
+										["c_max"] = 378552,
+										["id"] = 20271,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 378552,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-3702-098A139B",
+							["last_dps"] = 268857.9599127943,
+							["custom"] = 0,
+							["last_event"] = 1591356566,
+							["damage_taken"] = 0.00756,
+							["start_time"] = 1591356566,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.006562,
+							["damage_from"] = {
+								["Warewqrqwr"] = true,
+							},
+							["targets"] = {
+								["Squirrel"] = 4,
+							},
+							["pets"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 4.006562,
+							["monster"] = true,
+							["fight_component"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1591356571,
+							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
+							["nome"] = "Mangy Wolf",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 4,
+										["targets"] = {
+											["Squirrel"] = 4,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 4,
+										["n_min"] = 4,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 4,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									}, -- [1]
+								},
+							},
+							["total"] = 4.006562,
+							["serial"] = "Creature-0-3112-0-224-525-0000596A43",
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1591356568,
+							["damage_taken"] = 378552.006562,
+							["start_time"] = 1591356567,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 23,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 23,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 23,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 70,
+							["grupo"] = true,
+							["buff_uptime"] = 2,
+							["nome"] = "Warewqrqwr",
+							["pets"] = {
+							},
+							["last_event"] = 1591356567,
+							["classe"] = "PALADIN",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[186403] = {
+										["activedamt"] = 1,
+										["id"] = 186403,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-3702-098A139B",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 23,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Warewqrqwr"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["overall_added"] = true,
+				["cleu_timeline"] = {
+				},
+				["alternate_power"] = {
+				},
+				["tempo_start"] = 1591356566,
+				["enemy"] = "Mangy Wolf",
+				["combat_counter"] = 33,
+				["playing_solo"] = true,
+				["totals"] = {
+					378555.993097, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatEndedAt"] = 72127.75600000001,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "13:29:27",
+				["end_time"] = 72127.75600000001,
+				["totals_grupo"] = {
+					378552, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["combat_id"] = 23,
+				["TotalElapsedCombatTime"] = 72127.75600000001,
+				["frags_need_refresh"] = true,
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Warewqrqwr"] = 378552.00756,
+						}, -- [1]
+					},
+				},
+				["frags"] = {
+					["Mangy Wolf"] = 1,
+				},
+				["data_fim"] = "13:29:28",
+				["instance_type"] = "none",
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 72126.348,
+				["contra"] = "Mangy Wolf",
+				["TimeData"] = {
+				},
+			}, -- [4]
+			{
+				{
+					["combatId"] = 22,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.0019,
+							["spec"] = 70,
+							["damage_from"] = {
+								["Rogue Wizard"] = true,
+							},
+							["targets"] = {
+								["Rogue Wizard"] = 107703,
+								["Bandit"] = 491877,
+							},
+							["pets"] = {
+							},
+							["colocacao"] = 1,
+							["end_time"] = 1591356557,
+							["classe"] = "PALADIN",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 599580.0019,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["total"] = 599580.0019,
+							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
+							["nome"] = "Warewqrqwr",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 206966,
+										["g_amt"] = 0,
+										["n_max"] = 107703,
+										["targets"] = {
+											["Rogue Wizard"] = 107703,
+											["Bandit"] = 309290,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 210027,
+										["n_min"] = 102324,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 416993,
+										["c_max"] = 206966,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 206966,
+									}, -- [1]
+									[184575] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 182587,
+										["targets"] = {
+											["Bandit"] = 182587,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 182587,
+										["n_min"] = 182587,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 182587,
+										["c_max"] = 0,
+										["id"] = 184575,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-3702-098A139B",
+							["last_dps"] = 89236.49380863804,
+							["custom"] = 0,
+							["last_event"] = 1591356557,
+							["damage_taken"] = 1.0019,
+							["start_time"] = 1591356550,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.007316,
+							["damage_from"] = {
+								["Warewqrqwr"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.007316,
+							["monster"] = true,
+							["fight_component"] = true,
+							["dps_started"] = false,
+							["total"] = 0.007316,
+							["end_time"] = 1591356557,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Bandit",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Warewqrqwr"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 0,
+										["c_max"] = 0,
+										["MISS"] = 2,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									}, -- [1]
+								},
+							},
+							["on_hold"] = false,
+							["serial"] = "Creature-0-3112-0-224-116-0000D9CC71",
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1591356552,
+							["damage_taken"] = 491877.007316,
+							["start_time"] = 1591356557,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 0.006293,
+							["damage_from"] = {
+								["Warewqrqwr"] = true,
+							},
+							["targets"] = {
+								["Warewqrqwr"] = 1,
+							},
+							["pets"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1.006293,
+							["monster"] = true,
+							["fight_component"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1591356557,
+							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
+							["nome"] = "Rogue Wizard",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[13322] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1,
+										["targets"] = {
+											["Warewqrqwr"] = 1,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1,
+										["n_min"] = 1,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 1,
+										["c_max"] = 0,
+										["id"] = 13322,
+										["r_dmg"] = 0,
+										["MISS"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 2,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["total"] = 1.006293,
+							["serial"] = "Creature-0-3112-0-224-474-000059CC71",
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1591356557,
+							["damage_taken"] = 107703.006293,
+							["start_time"] = 1591356554,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [3]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 22,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 22,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.005872,
+							["resource"] = 1.005872,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["classe"] = "PALADIN",
+							["passiveover"] = 0.005872,
+							["total"] = 0.005872,
+							["nome"] = "Warewqrqwr",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["resource_type"] = 9,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.005872,
+							["last_event"] = 1591356565,
+							["spec"] = 70,
+							["tipo"] = 3,
+							["serial"] = "Player-3702-098A139B",
+							["totalover"] = 0.005872,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 22,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 70,
+							["grupo"] = true,
+							["buff_uptime"] = 17,
+							["nome"] = "Warewqrqwr",
+							["pets"] = {
+							},
+							["last_event"] = 1591356557,
+							["classe"] = "PALADIN",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[186403] = {
+										["activedamt"] = 1,
+										["id"] = 186403,
+										["targets"] = {
+										},
+										["uptime"] = 7,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[231843] = {
+										["activedamt"] = 1,
+										["id"] = 231843,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 7,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-3702-098A139B",
+							["tipo"] = 4,
+						}, -- [1]
+						{
+							["flag_original"] = 2632,
+							["nome"] = "Rogue Wizard",
+							["tipo"] = 4,
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["spell_cast"] = {
+								[13322] = 2,
+							},
+							["last_event"] = 0,
+							["monster"] = true,
+							["serial"] = "Creature-0-3112-0-224-474-000059CC71",
+							["classe"] = "UNKNOW",
+						}, -- [2]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 22,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Warewqrqwr"] = true,
+				},
+				["CombatStartedAt"] = 72125.731,
+				["tempo_start"] = 1591356550,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 32,
+				["playing_solo"] = true,
+				["totals"] = {
+					599580.991908, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["totals_grupo"] = {
+					599580, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "13:29:18",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Rogue Wizard",
+				["TotalElapsedCombatTime"] = 72117.649,
+				["CombatEndedAt"] = 72117.649,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Warewqrqwr"] = 599580.0019,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 72117.649,
+				["combat_id"] = 22,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["overall_added"] = true,
+				["spells_cast_timeline"] = {
+				},
+				["player_last_events"] = {
+				},
+				["data_inicio"] = "13:29:11",
+				["CombatSkillCache"] = {
+				},
+				["frags"] = {
+					["Rogue Wizard"] = 1,
+					["Squirrel"] = 1,
+					["Bandit"] = 2,
+				},
+				["start_time"] = 72110.888,
+				["TimeData"] = {
+				},
+				["contra"] = "Bandit",
+			}, -- [5]
+			{
+				{
+					["combatId"] = 21,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.006536,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Bandit"] = 106260,
+							},
+							["total"] = 106260.006536,
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["classe"] = "PALADIN",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 106260.006536,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1591356548,
+							["friendlyfire_total"] = 0,
+							["spec"] = 70,
+							["nome"] = "Warewqrqwr",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 106260,
+										["targets"] = {
+											["Bandit"] = 106260,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 106260,
+										["n_min"] = 106260,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 106260,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									}, -- [1]
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-3702-098A139B",
+							["last_dps"] = 87098.36601407053,
+							["custom"] = 0,
+							["last_event"] = 1591356547,
+							["damage_taken"] = 0.006536,
+							["start_time"] = 1591356547,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.008607,
+							["damage_from"] = {
+								["Warewqrqwr"] = true,
+							},
+							["targets"] = {
+							},
+							["monster"] = true,
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.008607,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.008607,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3112-0-224-116-000059CC25",
+							["nome"] = "Bandit",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Warewqrqwr"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 0,
+										["c_max"] = 0,
+										["MISS"] = 2,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									}, -- [1]
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1591356548,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 106260.008607,
+							["start_time"] = 1591356548,
+							["delay"] = 0,
+							["last_event"] = 1591356550,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 21,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 21,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.008209,
+							["resource"] = 2.008209,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["classe"] = "PALADIN",
+							["passiveover"] = 0.008209,
+							["total"] = 0.008209,
+							["nome"] = "Warewqrqwr",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["resource_type"] = 9,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.008209,
+							["last_event"] = 1591356550,
+							["spec"] = 70,
+							["tipo"] = 3,
+							["serial"] = "Player-3702-098A139B",
+							["totalover"] = 0.008209,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 21,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 70,
+							["grupo"] = true,
+							["buff_uptime"] = 2,
+							["nome"] = "Warewqrqwr",
+							["pets"] = {
+							},
+							["last_event"] = 1591356548,
+							["classe"] = "PALADIN",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[186403] = {
+										["activedamt"] = 1,
+										["id"] = 186403,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-3702-098A139B",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 21,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Warewqrqwr"] = true,
+				},
+				["CombatStartedAt"] = 72110.344,
+				["tempo_start"] = 1591356547,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 31,
+				["playing_solo"] = true,
+				["totals"] = {
+					106259.983355, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["totals_grupo"] = {
+					106260, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "13:29:09",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Bandit",
+				["TotalElapsedCombatTime"] = 1.219999999986612,
+				["CombatEndedAt"] = 72108.726,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Warewqrqwr"] = 106260.006536,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 72108.726,
+				["combat_id"] = 21,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["overall_added"] = true,
+				["spells_cast_timeline"] = {
+				},
+				["player_last_events"] = {
+				},
+				["data_inicio"] = "13:29:08",
+				["CombatSkillCache"] = {
+				},
+				["frags"] = {
+					["Bandit"] = 1,
+				},
+				["start_time"] = 72107.50600000001,
+				["TimeData"] = {
+				},
+				["contra"] = "Bandit",
+			}, -- [6]
+			{
+				{
+					["combatId"] = 20,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.003897,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Bandit"] = 189255,
+							},
+							["total"] = 189255.003897,
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["classe"] = "PALADIN",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 189255.003897,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1591356546,
+							["friendlyfire_total"] = 0,
+							["spec"] = 70,
+							["nome"] = "Warewqrqwr",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[20271] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 189255,
+										["targets"] = {
+											["Bandit"] = 189255,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 189255,
+										["n_min"] = 189255,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 189255,
+										["c_max"] = 0,
+										["id"] = 20271,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-3702-098A139B",
+							["last_dps"] = 1063230.358972605,
+							["custom"] = 0,
+							["last_event"] = 1591356545,
+							["damage_taken"] = 0.003897,
+							["start_time"] = 1591356545,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.002663,
+							["damage_from"] = {
+								["Warewqrqwr"] = true,
+							},
+							["targets"] = {
+							},
+							["monster"] = true,
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.002663,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.002663,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3112-0-224-116-000059CC03",
+							["nome"] = "Bandit",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1591356546,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 189255.002663,
+							["start_time"] = 1591356546,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 20,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 20,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 20,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 70,
+							["grupo"] = true,
+							["buff_uptime"] = 2,
+							["nome"] = "Warewqrqwr",
+							["pets"] = {
+							},
+							["last_event"] = 1591356546,
+							["classe"] = "PALADIN",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[186403] = {
+										["activedamt"] = 1,
+										["id"] = 186403,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-3702-098A139B",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 20,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Warewqrqwr"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["overall_added"] = true,
+				["cleu_timeline"] = {
+				},
+				["alternate_power"] = {
+				},
+				["tempo_start"] = 1591356545,
+				["enemy"] = "Bandit",
+				["combat_counter"] = 30,
+				["playing_solo"] = true,
+				["totals"] = {
+					189255, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatEndedAt"] = 72106.301,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "13:29:05",
+				["end_time"] = 72106.301,
+				["totals_grupo"] = {
+					189255, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["combat_id"] = 20,
+				["TotalElapsedCombatTime"] = 72106.301,
+				["frags_need_refresh"] = true,
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Warewqrqwr"] = 189255.003897,
+						}, -- [1]
+					},
+				},
+				["frags"] = {
+					["Bandit"] = 1,
+				},
+				["data_fim"] = "13:29:07",
+				["instance_type"] = "none",
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 72105.029,
+				["contra"] = "Bandit",
+				["TimeData"] = {
+				},
+			}, -- [7]
+			{
+				{
+					["combatId"] = 19,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.002549,
+							["spec"] = 70,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Mangy Wolf"] = 100750,
+							},
+							["pets"] = {
+							},
+							["colocacao"] = 1,
+							["end_time"] = 1591356333,
+							["classe"] = "PALADIN",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 100750.002549,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["total"] = 100750.002549,
+							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
+							["nome"] = "Warewqrqwr",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 100750,
+										["targets"] = {
+											["Mangy Wolf"] = 100750,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 100750,
+										["n_min"] = 100750,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 100750,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									}, -- [1]
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-3702-098A139B",
+							["last_dps"] = 82581.96930238021,
+							["custom"] = 0,
+							["last_event"] = 1591356331,
+							["damage_taken"] = 0.002549,
+							["start_time"] = 1591356331,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.005763,
+							["damage_from"] = {
+								["Warewqrqwr"] = true,
+							},
+							["targets"] = {
+								["Squirrel"] = 9,
+							},
+							["serial"] = "Creature-0-3112-0-224-525-00005A27F3",
+							["pets"] = {
+							},
+							["end_time"] = 1591356545,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 9.005763,
+							["fight_component"] = true,
+							["dps_started"] = false,
+							["total"] = 9.005763,
+							["friendlyfire_total"] = 0,
+							["monster"] = true,
+							["nome"] = "Mangy Wolf",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 5,
+										["targets"] = {
+											["Squirrel"] = 9,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 9,
+										["n_min"] = 4,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 9,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									}, -- [1]
+								},
+							},
+							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1591356422,
+							["damage_taken"] = 100750.005763,
+							["start_time"] = 1591356455,
+							["delay"] = 1591356422,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 19,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 19,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.002355,
+							["resource"] = 1.002355,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["classe"] = "PALADIN",
+							["passiveover"] = 0.002355,
+							["total"] = 0.002355,
+							["nome"] = "Warewqrqwr",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["resource_type"] = 9,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.002355,
+							["last_event"] = 1591356544,
+							["spec"] = 70,
+							["tipo"] = 3,
+							["serial"] = "Player-3702-098A139B",
+							["totalover"] = 0.002355,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 19,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 70,
+							["grupo"] = true,
+							["buff_uptime"] = 4,
+							["nome"] = "Warewqrqwr",
+							["pets"] = {
+							},
+							["last_event"] = 1591356333,
+							["classe"] = "PALADIN",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[186403] = {
+										["activedamt"] = 1,
+										["id"] = 186403,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-3702-098A139B",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 19,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Warewqrqwr"] = true,
+				},
+				["CombatStartedAt"] = 72104.132,
+				["tempo_start"] = 1591356331,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 29,
+				["playing_solo"] = true,
+				["totals"] = {
+					100758.998063, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["totals_grupo"] = {
+					100750, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "13:25:33",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Mangy Wolf",
+				["TotalElapsedCombatTime"] = 71892.906,
+				["CombatEndedAt"] = 71892.906,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Warewqrqwr"] = 100750.002549,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 71892.906,
+				["combat_id"] = 19,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["overall_added"] = true,
+				["spells_cast_timeline"] = {
+				},
+				["player_last_events"] = {
+				},
+				["data_inicio"] = "13:25:32",
+				["CombatSkillCache"] = {
+				},
+				["frags"] = {
+					["Mangy Wolf"] = 1,
+				},
+				["start_time"] = 71891.686,
+				["TimeData"] = {
+				},
+				["contra"] = "Mangy Wolf",
+			}, -- [8]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 18,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.007733,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Mangy Wolf"] = 106058,
+							},
+							["pets"] = {
+							},
+							["delay"] = 0,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 106058.007733,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["dps_started"] = false,
+							["total"] = 106058.007733,
+							["classe"] = "PALADIN",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 106058,
+										["targets"] = {
+											["Mangy Wolf"] = 106058,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 106058,
+										["n_min"] = 106058,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 106058,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["c_min"] = 0,
+										["r_amt"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["spellschool"] = 1,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["nome"] = "Warewqrqwr",
+							["spec"] = 70,
+							["grupo"] = true,
+							["end_time"] = 1591355040,
+							["damage_taken"] = 0.007733,
+							["last_dps"] = 125810.2108348994,
+							["colocacao"] = 1,
+							["last_event"] = 1591355040,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1591355040,
+							["serial"] = "Player-3702-098A139B",
+							["on_hold"] = false,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.006935,
+							["damage_from"] = {
+								["Warewqrqwr"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["last_event"] = 1591356331,
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.006935,
+							["delay"] = 0,
+							["monster"] = true,
+							["total"] = 0.006935,
+							["classe"] = "UNKNOW",
+							["damage_taken"] = 106058.006935,
+							["nome"] = "Mangy Wolf",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Warewqrqwr"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 0,
+										["c_max"] = 0,
+										["MISS"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["dps_started"] = false,
+							["last_dps"] = 0,
+							["end_time"] = 1591355040,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1591355040,
+							["serial"] = "Creature-0-3112-0-224-525-00005A1862",
+							["fight_component"] = true,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 18,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 18,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 18,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["nome"] = "Warewqrqwr",
+							["spec"] = 70,
+							["grupo"] = true,
+							["pets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 0,
+							["classe"] = "PALADIN",
+							["tipo"] = 4,
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[326419] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 326419,
+										["uptime"] = 0,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[186403] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 186403,
+										["uptime"] = 0,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["serial"] = "Player-3702-098A139B",
+							["last_event"] = 1591355040,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 18,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Warewqrqwr"] = true,
+				},
+				["CombatStartedAt"] = 71891.686,
+				["tempo_start"] = 1591355040,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["playing_solo"] = true,
+				["totals"] = {
+					106058, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["totals_grupo"] = {
+					106058, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "13:04:01",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Mangy Wolf",
+				["TotalElapsedCombatTime"] = 70600.59,
+				["CombatEndedAt"] = 70600.59,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "13:04:00",
+				["end_time"] = 70600.59,
+				["combat_id"] = 18,
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Warewqrqwr"] = 106058.007733,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["overall_added"] = true,
+				["frags"] = {
+					["Mangy Wolf"] = 1,
+				},
+				["TimeData"] = {
+				},
+				["combat_counter"] = 27,
+				["CombatSkillCache"] = {
+				},
+				["player_last_events"] = {
+				},
+				["start_time"] = 70599.747,
+				["contra"] = "Mangy Wolf",
+				["spells_cast_timeline"] = {
+				},
+			}, -- [9]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 17,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.002351,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Mangy Wolf"] = 105354,
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["custom"] = 0,
+							["tipo"] = 1,
+							["classe"] = "PALADIN",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 105354.002351,
+							["friendlyfire_total"] = 0,
+							["dps_started"] = false,
+							["total"] = 105354.002351,
+							["damage_taken"] = 0.002351,
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 105354,
+										["targets"] = {
+											["Mangy Wolf"] = 105354,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 105354,
+										["n_min"] = 105354,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 105354,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["c_min"] = 0,
+										["r_amt"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["spellschool"] = 1,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["nome"] = "Warewqrqwr",
+							["spec"] = 70,
+							["grupo"] = true,
+							["last_dps"] = 792135.3560128494,
+							["end_time"] = 1591355030,
+							["colocacao"] = 1,
+							["last_event"] = 1591355029,
+							["on_hold"] = false,
+							["start_time"] = 1591355029,
+							["serial"] = "Player-3702-098A139B",
+							["friendlyfire"] = {
+							},
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.0053,
+							["damage_from"] = {
+								["Warewqrqwr"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["last_event"] = 1591355039,
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.0053,
+							["delay"] = 0,
+							["monster"] = true,
+							["total"] = 0.0053,
+							["classe"] = "UNKNOW",
+							["damage_taken"] = 105354.0053,
+							["nome"] = "Mangy Wolf",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Warewqrqwr"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 0,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["spellschool"] = 1,
+										["MISS"] = 2,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["dps_started"] = false,
+							["last_dps"] = 0,
+							["end_time"] = 1591355030,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1591355030,
+							["serial"] = "Creature-0-3112-0-224-525-00005A107E",
+							["fight_component"] = true,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 17,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 17,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 17,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["nome"] = "Warewqrqwr",
+							["spec"] = 70,
+							["grupo"] = true,
+							["pets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 2,
+							["classe"] = "PALADIN",
+							["tipo"] = 4,
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[326419] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 326419,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[186403] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 186403,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["serial"] = "Player-3702-098A139B",
+							["last_event"] = 1591355030,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 17,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Warewqrqwr"] = true,
+				},
+				["CombatStartedAt"] = 70599.373,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["playing_solo"] = true,
+				["totals"] = {
+					105354, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["totals_grupo"] = {
+					105354, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "13:03:51",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Mangy Wolf",
+				["TotalElapsedCombatTime"] = 0.8509999999951106,
+				["CombatEndedAt"] = 70590.052,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "13:03:50",
+				["end_time"] = 70590.052,
+				["combat_id"] = 17,
+				["player_last_events"] = {
+				},
+				["tempo_start"] = 1591355029,
+				["spells_cast_timeline"] = {
+				},
+				["contra"] = "Mangy Wolf",
+				["combat_counter"] = 26,
+				["CombatSkillCache"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Warewqrqwr"] = 105354.002351,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["start_time"] = 70589.201,
+				["TimeData"] = {
+				},
+				["frags"] = {
+					["Mangy Wolf"] = 1,
+				},
+			}, -- [10]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 16,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.005,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Mangy Wolf"] = 189271,
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["custom"] = 0,
+							["tipo"] = 1,
+							["classe"] = "PALADIN",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 189271.005,
+							["friendlyfire_total"] = 0,
+							["dps_started"] = false,
+							["total"] = 189271.005,
+							["damage_taken"] = 0.005,
+							["spells"] = {
+								["_ActorTable"] = {
+									[20271] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 189271,
+										["targets"] = {
+											["Mangy Wolf"] = 189271,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 189271,
+										["n_min"] = 189271,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 189271,
+										["c_max"] = 0,
+										["id"] = 20271,
+										["r_dmg"] = 0,
+										["c_min"] = 0,
+										["r_amt"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["spellschool"] = 2,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["nome"] = "Warewqrqwr",
+							["spec"] = 70,
+							["grupo"] = true,
+							["last_dps"] = 1433871.249865955,
+							["end_time"] = 1591355025,
+							["colocacao"] = 1,
+							["last_event"] = 1591355024,
+							["on_hold"] = false,
+							["start_time"] = 1591355024,
+							["serial"] = "Player-3702-098A139B",
+							["friendlyfire"] = {
+							},
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.003983,
+							["damage_from"] = {
+								["Warewqrqwr"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["last_event"] = 0,
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.003983,
+							["delay"] = 0,
+							["monster"] = true,
+							["total"] = 0.003983,
+							["classe"] = "UNKNOW",
+							["damage_taken"] = 189271.003983,
+							["nome"] = "Mangy Wolf",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["dps_started"] = false,
+							["last_dps"] = 0,
+							["end_time"] = 1591355025,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1591355025,
+							["serial"] = "Creature-0-3112-0-224-525-00005A1F29",
+							["fight_component"] = true,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 16,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 16,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 16,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["nome"] = "Warewqrqwr",
+							["spec"] = 70,
+							["grupo"] = true,
+							["pets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 2,
+							["classe"] = "PALADIN",
+							["tipo"] = 4,
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[326419] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 326419,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[186403] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 186403,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["serial"] = "Player-3702-098A139B",
+							["last_event"] = 1591355025,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 16,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Warewqrqwr"] = true,
+				},
+				["tempo_start"] = 1591355024,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["playing_solo"] = true,
+				["totals"] = {
+					189271, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["totals_grupo"] = {
+					189271, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "13:03:46",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Mangy Wolf",
+				["TotalElapsedCombatTime"] = 70585.206,
+				["CombatEndedAt"] = 70585.206,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "13:03:44",
+				["end_time"] = 70585.206,
+				["combat_id"] = 16,
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Warewqrqwr"] = 189271.005,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["overall_added"] = true,
+				["frags"] = {
+					["Mangy Wolf"] = 1,
+				},
+				["TimeData"] = {
+				},
+				["combat_counter"] = 25,
+				["CombatSkillCache"] = {
+				},
+				["player_last_events"] = {
+				},
+				["start_time"] = 70583.999,
+				["contra"] = "Mangy Wolf",
+				["spells_cast_timeline"] = {
+				},
+			}, -- [11]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 15,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.00259,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Mangy Wolf"] = 101754,
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["custom"] = 0,
+							["tipo"] = 1,
+							["classe"] = "PALADIN",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 101754.00259,
+							["friendlyfire_total"] = 0,
+							["dps_started"] = false,
+							["total"] = 101754.00259,
+							["damage_taken"] = 0.00259,
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 101754,
+										["targets"] = {
+											["Mangy Wolf"] = 101754,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 101754,
+										["n_min"] = 101754,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 101754,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["c_min"] = 0,
+										["r_amt"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["spellschool"] = 1,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["nome"] = "Warewqrqwr",
+							["spec"] = 70,
+							["grupo"] = true,
+							["last_dps"] = 1017540.0259,
+							["end_time"] = 1591355017,
+							["colocacao"] = 1,
+							["last_event"] = 1591355016,
+							["on_hold"] = false,
+							["start_time"] = 1591355016,
+							["serial"] = "Player-3702-098A139B",
+							["friendlyfire"] = {
+							},
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.00721,
+							["damage_from"] = {
+								["Warewqrqwr"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["last_event"] = 0,
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.00721,
+							["delay"] = 0,
+							["monster"] = true,
+							["total"] = 0.00721,
+							["classe"] = "UNKNOW",
+							["damage_taken"] = 101754.00721,
+							["nome"] = "Mangy Wolf",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["dps_started"] = false,
+							["last_dps"] = 0,
+							["end_time"] = 1591355017,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1591355017,
+							["serial"] = "Creature-0-3112-0-224-525-00005A10BA",
+							["fight_component"] = true,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 15,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 15,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.007131,
+							["resource"] = 1.007131,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["classe"] = "PALADIN",
+							["passiveover"] = 0.007131,
+							["total"] = 0.007131,
+							["nome"] = "Warewqrqwr",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 7,
+							},
+							["grupo"] = true,
+							["totalover"] = 0.007131,
+							["flag_original"] = 1297,
+							["tipo"] = 3,
+							["last_event"] = 1591355023,
+							["spec"] = 70,
+							["alternatepower"] = 0.007131,
+							["serial"] = "Player-3702-098A139B",
+							["resource_type"] = 9,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 15,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["nome"] = "Warewqrqwr",
+							["spec"] = 70,
+							["grupo"] = true,
+							["pets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 2,
+							["classe"] = "PALADIN",
+							["tipo"] = 4,
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[326419] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 326419,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[186403] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 186403,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["serial"] = "Player-3702-098A139B",
+							["last_event"] = 1591355017,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 15,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Warewqrqwr"] = true,
+				},
+				["CombatStartedAt"] = 70583.177,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["playing_solo"] = true,
+				["totals"] = {
+					101754, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["totals_grupo"] = {
+					101754, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "13:03:37",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Mangy Wolf",
+				["TotalElapsedCombatTime"] = 70576.707,
+				["CombatEndedAt"] = 70576.707,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "13:03:37",
+				["end_time"] = 70576.707,
+				["combat_id"] = 15,
+				["player_last_events"] = {
+				},
+				["tempo_start"] = 1591355016,
+				["spells_cast_timeline"] = {
+				},
+				["contra"] = "Mangy Wolf",
+				["combat_counter"] = 24,
+				["CombatSkillCache"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Warewqrqwr"] = 101754.00259,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["start_time"] = 70576.477,
+				["TimeData"] = {
+				},
+				["frags"] = {
+					["Mangy Wolf"] = 1,
+				},
+			}, -- [12]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 14,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.001695,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Mangy Wolf"] = 207214,
+								["Lamepaw the Whimperer"] = 104293,
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["custom"] = 0,
+							["tipo"] = 1,
+							["classe"] = "PALADIN",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 311507.001695,
+							["friendlyfire_total"] = 0,
+							["dps_started"] = false,
+							["total"] = 311507.001695,
+							["damage_taken"] = 0.001695,
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 105783,
+										["targets"] = {
+											["Mangy Wolf"] = 207214,
+											["Lamepaw the Whimperer"] = 104293,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 311507,
+										["n_min"] = 101431,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 311507,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["c_min"] = 0,
+										["r_amt"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["a_dmg"] = 0,
+										["spellschool"] = 1,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["nome"] = "Warewqrqwr",
+							["spec"] = 70,
+							["grupo"] = true,
+							["last_dps"] = 45601.96189353611,
+							["end_time"] = 1591355014,
+							["colocacao"] = 1,
+							["last_event"] = 1591355013,
+							["on_hold"] = false,
+							["start_time"] = 1591355006,
+							["serial"] = "Player-3702-098A139B",
+							["friendlyfire"] = {
+							},
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.007837,
+							["damage_from"] = {
+								["Warewqrqwr"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["last_event"] = 1591355006,
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.007837,
+							["delay"] = 0,
+							["monster"] = true,
+							["total"] = 0.007837,
+							["classe"] = "UNKNOW",
+							["damage_taken"] = 104293.007837,
+							["nome"] = "Lamepaw the Whimperer",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Warewqrqwr"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 0,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["spellschool"] = 1,
+										["MISS"] = 1,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["dps_started"] = false,
+							["last_dps"] = 0,
+							["end_time"] = 1591355014,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1591355014,
+							["serial"] = "Creature-0-3112-0-224-50916-000059ECB7",
+							["fight_component"] = true,
+						}, -- [2]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.002469,
+							["damage_from"] = {
+								["Warewqrqwr"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["last_event"] = 1591355015,
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.002469,
+							["delay"] = 0,
+							["monster"] = true,
+							["total"] = 0.002469,
+							["classe"] = "UNKNOW",
+							["damage_taken"] = 207214.002469,
+							["nome"] = "Mangy Wolf",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Warewqrqwr"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 0,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["spellschool"] = 1,
+										["MISS"] = 6,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["dps_started"] = false,
+							["last_dps"] = 0,
+							["end_time"] = 1591355014,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1591355014,
+							["serial"] = "Creature-0-3112-0-224-525-000059E73B",
+							["fight_component"] = true,
+						}, -- [3]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 14,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 14,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 14,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["nome"] = "Warewqrqwr",
+							["spec"] = 70,
+							["grupo"] = true,
+							["pets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 16,
+							["classe"] = "PALADIN",
+							["tipo"] = 4,
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[326419] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 326419,
+										["uptime"] = 8,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[186403] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 186403,
+										["uptime"] = 8,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["serial"] = "Player-3702-098A139B",
+							["last_event"] = 1591355014,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 14,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Warewqrqwr"] = true,
+				},
+				["CombatStartedAt"] = 70575.499,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["playing_solo"] = true,
+				["totals"] = {
+					311507, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["totals_grupo"] = {
+					311507, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "13:03:35",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Mangy Wolf",
+				["TotalElapsedCombatTime"] = 7.789000000004307,
+				["CombatEndedAt"] = 70574.288,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "13:03:27",
+				["end_time"] = 70574.288,
+				["combat_id"] = 14,
+				["player_last_events"] = {
+				},
+				["tempo_start"] = 1591355006,
+				["spells_cast_timeline"] = {
+				},
+				["contra"] = "Lamepaw the Whimperer",
+				["combat_counter"] = 23,
+				["CombatSkillCache"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Warewqrqwr"] = 311507.001695,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["start_time"] = 70566.499,
+				["TimeData"] = {
+				},
+				["frags"] = {
+					["Mangy Wolf"] = 2,
+					["Lamepaw the Whimperer"] = 1,
+				},
+			}, -- [13]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 13,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.00515,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Mangy Wolf"] = 100829,
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["custom"] = 0,
+							["tipo"] = 1,
+							["classe"] = "PALADIN",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 100829.00515,
+							["friendlyfire_total"] = 0,
+							["dps_started"] = false,
+							["total"] = 100829.00515,
+							["damage_taken"] = 0.00515,
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 100829,
+										["targets"] = {
+											["Mangy Wolf"] = 100829,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 100829,
+										["n_min"] = 100829,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 100829,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["c_min"] = 0,
+										["r_amt"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["spellschool"] = 1,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["nome"] = "Warewqrqwr",
+							["spec"] = 70,
+							["grupo"] = true,
+							["last_dps"] = 1008290.0515,
+							["end_time"] = 1591355004,
+							["colocacao"] = 1,
+							["last_event"] = 1591355003,
+							["on_hold"] = false,
+							["start_time"] = 1591355003,
+							["serial"] = "Player-3702-098A139B",
+							["friendlyfire"] = {
+							},
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.002516,
+							["damage_from"] = {
+								["Warewqrqwr"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["last_event"] = 1591355003,
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.002516,
+							["delay"] = 0,
+							["monster"] = true,
+							["total"] = 0.002516,
+							["classe"] = "UNKNOW",
+							["damage_taken"] = 100829.002516,
+							["nome"] = "Mangy Wolf",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Warewqrqwr"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 0,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["spellschool"] = 1,
+										["MISS"] = 1,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["dps_started"] = false,
+							["last_dps"] = 0,
+							["end_time"] = 1591355004,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1591355004,
+							["serial"] = "Creature-0-3112-0-224-525-000059E74C",
+							["fight_component"] = true,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 13,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 13,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 13,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["nome"] = "Warewqrqwr",
+							["spec"] = 70,
+							["grupo"] = true,
+							["pets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 2,
+							["classe"] = "PALADIN",
+							["tipo"] = 4,
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[326419] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 326419,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[186403] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 186403,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["serial"] = "Player-3702-098A139B",
+							["last_event"] = 1591355004,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 13,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Warewqrqwr"] = true,
+				},
+				["CombatStartedAt"] = 70563.25200000001,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["playing_solo"] = true,
+				["totals"] = {
+					100829, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["totals_grupo"] = {
+					100829, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "13:03:25",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Mangy Wolf",
+				["TotalElapsedCombatTime"] = 0.9479999999894062,
+				["CombatEndedAt"] = 70564.2,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "13:03:24",
+				["end_time"] = 70564.2,
+				["combat_id"] = 13,
+				["player_last_events"] = {
+				},
+				["tempo_start"] = 1591355003,
+				["spells_cast_timeline"] = {
+				},
+				["contra"] = "Mangy Wolf",
+				["combat_counter"] = 22,
+				["CombatSkillCache"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Warewqrqwr"] = 100829.00515,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["start_time"] = 70563.25200000001,
+				["TimeData"] = {
+				},
+				["frags"] = {
+					["Mangy Wolf"] = 1,
+				},
+			}, -- [14]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 12,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.00772,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Murloc Streamrunner"] = 103757,
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["custom"] = 0,
+							["tipo"] = 1,
+							["classe"] = "PALADIN",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 103757.00772,
+							["friendlyfire_total"] = 0,
+							["dps_started"] = false,
+							["total"] = 103757.00772,
+							["damage_taken"] = 0.00772,
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 103757,
+										["targets"] = {
+											["Murloc Streamrunner"] = 103757,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 103757,
+										["n_min"] = 103757,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 103757,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["c_min"] = 0,
+										["r_amt"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["spellschool"] = 1,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["nome"] = "Warewqrqwr",
+							["spec"] = 70,
+							["grupo"] = true,
+							["last_dps"] = 691713.384826842,
+							["end_time"] = 1591354999,
+							["colocacao"] = 1,
+							["last_event"] = 1591354998,
+							["on_hold"] = false,
+							["start_time"] = 1591354998,
+							["serial"] = "Player-3702-098A139B",
+							["friendlyfire"] = {
+							},
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.008371,
+							["damage_from"] = {
+								["Warewqrqwr"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["last_event"] = 1591354998,
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.008371,
+							["delay"] = 0,
+							["monster"] = true,
+							["total"] = 0.008371,
+							["classe"] = "UNKNOW",
+							["damage_taken"] = 103757.008371,
+							["nome"] = "Murloc Streamrunner",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Warewqrqwr"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 0,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["spellschool"] = 1,
+										["MISS"] = 1,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["dps_started"] = false,
+							["last_dps"] = 0,
+							["end_time"] = 1591354999,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1591354999,
+							["serial"] = "Creature-0-3112-0-224-735-00005A10C4",
+							["fight_component"] = true,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 12,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 12,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 12,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["nome"] = "Warewqrqwr",
+							["spec"] = 70,
+							["grupo"] = true,
+							["pets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 2,
+							["classe"] = "PALADIN",
+							["tipo"] = 4,
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[326419] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 326419,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[186403] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 186403,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["serial"] = "Player-3702-098A139B",
+							["last_event"] = 1591354999,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 12,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Warewqrqwr"] = true,
+				},
+				["CombatStartedAt"] = 70558.383,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["playing_solo"] = true,
+				["totals"] = {
+					103757, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["totals_grupo"] = {
+					103757, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "13:03:20",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Murloc Streamrunner",
+				["TotalElapsedCombatTime"] = 0.9860000000044238,
+				["CombatEndedAt"] = 70559.369,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "13:03:19",
+				["end_time"] = 70559.369,
+				["combat_id"] = 12,
+				["player_last_events"] = {
+				},
+				["tempo_start"] = 1591354998,
+				["spells_cast_timeline"] = {
+				},
+				["contra"] = "Murloc Streamrunner",
+				["combat_counter"] = 21,
+				["CombatSkillCache"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Warewqrqwr"] = 103757.00772,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["start_time"] = 70558.383,
+				["TimeData"] = {
+				},
+				["frags"] = {
+					["Murloc Streamrunner"] = 1,
+				},
+			}, -- [15]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 11,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.00114,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Small Frog"] = 118673,
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["custom"] = 0,
+							["tipo"] = 1,
+							["classe"] = "PALADIN",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 118673.00114,
+							["friendlyfire_total"] = 0,
+							["dps_started"] = false,
+							["total"] = 118673.00114,
+							["damage_taken"] = 0.00114,
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 118673,
+										["targets"] = {
+											["Small Frog"] = 118673,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 118673,
+										["n_min"] = 118673,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 118673,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["c_min"] = 0,
+										["r_amt"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["spellschool"] = 1,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["nome"] = "Warewqrqwr",
+							["spec"] = 70,
+							["grupo"] = true,
+							["last_dps"] = 114549.228900412,
+							["end_time"] = 1591354996,
+							["colocacao"] = 1,
+							["last_event"] = 1591354995,
+							["on_hold"] = false,
+							["start_time"] = 1591354995,
+							["serial"] = "Player-3702-098A139B",
+							["friendlyfire"] = {
+							},
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 0.007121,
+							["damage_from"] = {
+								["Warewqrqwr"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.007121,
+							["last_event"] = 1591354995,
+							["fight_component"] = true,
+							["total"] = 0.007121,
+							["delay"] = 0,
+							["classe"] = "UNKNOW",
+							["nome"] = "Small Frog",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Warewqrqwr"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 0,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["spellschool"] = 1,
+										["MISS"] = 1,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["damage_taken"] = 118673.007121,
+							["end_time"] = 1591354996,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1591354996,
+							["serial"] = "Creature-0-3112-0-224-13321-00005984DC",
+							["dps_started"] = false,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 11,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 11,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 11,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["nome"] = "Warewqrqwr",
+							["spec"] = 70,
+							["grupo"] = true,
+							["pets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 2,
+							["classe"] = "PALADIN",
+							["tipo"] = 4,
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[326419] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 326419,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[186403] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 186403,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["serial"] = "Player-3702-098A139B",
+							["last_event"] = 1591354996,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 11,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Warewqrqwr"] = true,
+				},
+				["CombatStartedAt"] = 70555.081,
+				["tempo_start"] = 1591354995,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["playing_solo"] = true,
+				["totals"] = {
+					118672.993962, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "13:03:17",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Small Frog",
+				["TotalElapsedCombatTime"] = 1.035999999992782,
+				["CombatEndedAt"] = 70556.117,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "13:03:16",
+				["end_time"] = 70556.117,
+				["combat_id"] = 11,
+				["overall_added"] = true,
+				["spells_cast_timeline"] = {
+				},
+				["frags"] = {
+					["Small Frog"] = 1,
+				},
+				["combat_counter"] = 20,
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					118673, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 70555.081,
+				["TimeData"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Warewqrqwr"] = 118673.00114,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+			}, -- [16]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 10,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.00846,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Murloc"] = 102749,
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["custom"] = 0,
+							["tipo"] = 1,
+							["classe"] = "PALADIN",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 102749.00846,
+							["friendlyfire_total"] = 0,
+							["dps_started"] = false,
+							["total"] = 102749.00846,
+							["damage_taken"] = 0.00846,
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 102749,
+										["targets"] = {
+											["Murloc"] = 102749,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 102749,
+										["n_min"] = 102749,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 102749,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["c_min"] = 0,
+										["r_amt"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["spellschool"] = 1,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["nome"] = "Warewqrqwr",
+							["spec"] = 70,
+							["grupo"] = true,
+							["last_dps"] = 708613.8514283636,
+							["end_time"] = 1591354993,
+							["colocacao"] = 1,
+							["last_event"] = 1591354992,
+							["on_hold"] = false,
+							["start_time"] = 1591354992,
+							["serial"] = "Player-3702-098A139B",
+							["friendlyfire"] = {
+							},
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.00678,
+							["damage_from"] = {
+								["Warewqrqwr"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["last_event"] = 1591354992,
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.00678,
+							["delay"] = 0,
+							["monster"] = true,
+							["total"] = 0.00678,
+							["classe"] = "UNKNOW",
+							["damage_taken"] = 102749.00678,
+							["nome"] = "Murloc",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Warewqrqwr"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 0,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["spellschool"] = 1,
+										["MISS"] = 1,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["dps_started"] = false,
+							["last_dps"] = 0,
+							["end_time"] = 1591354993,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1591354993,
+							["serial"] = "Creature-0-3112-0-224-285-00005A1819",
+							["fight_component"] = true,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 10,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 10,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 10,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["nome"] = "Warewqrqwr",
+							["spec"] = 70,
+							["grupo"] = true,
+							["pets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 2,
+							["classe"] = "PALADIN",
+							["tipo"] = 4,
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[326419] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 326419,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[186403] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 186403,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["serial"] = "Player-3702-098A139B",
+							["last_event"] = 1591354993,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 10,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Warewqrqwr"] = true,
+				},
+				["CombatStartedAt"] = 70551.785,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["playing_solo"] = true,
+				["totals"] = {
+					102749, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["totals_grupo"] = {
+					102749, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "13:03:13",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Murloc",
+				["TotalElapsedCombatTime"] = 1.100999999995111,
+				["CombatEndedAt"] = 70552.886,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "13:03:12",
+				["end_time"] = 70552.886,
+				["combat_id"] = 10,
+				["player_last_events"] = {
+				},
+				["tempo_start"] = 1591354992,
+				["spells_cast_timeline"] = {
+				},
+				["contra"] = "Murloc",
+				["combat_counter"] = 19,
+				["CombatSkillCache"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Warewqrqwr"] = 102749.00846,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["start_time"] = 70551.785,
+				["TimeData"] = {
+				},
+				["frags"] = {
+					["Murloc"] = 1,
+				},
+			}, -- [17]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.004426,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Murloc"] = 102905,
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["custom"] = 0,
+							["tipo"] = 1,
+							["classe"] = "PALADIN",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 102905.004426,
+							["friendlyfire_total"] = 0,
+							["dps_started"] = false,
+							["total"] = 102905.004426,
+							["damage_taken"] = 0.004426,
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 102905,
+										["targets"] = {
+											["Murloc"] = 102905,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 102905,
+										["n_min"] = 102905,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 102905,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["c_min"] = 0,
+										["r_amt"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["spellschool"] = 1,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["nome"] = "Warewqrqwr",
+							["spec"] = 70,
+							["grupo"] = true,
+							["last_dps"] = 1029050.04426,
+							["end_time"] = 1591354990,
+							["colocacao"] = 1,
+							["last_event"] = 1591354988,
+							["on_hold"] = false,
+							["start_time"] = 1591354988,
+							["serial"] = "Player-3702-098A139B",
+							["friendlyfire"] = {
+							},
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.002182,
+							["damage_from"] = {
+								["Warewqrqwr"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["last_event"] = 1591354988,
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.002182,
+							["delay"] = 0,
+							["monster"] = true,
+							["total"] = 0.002182,
+							["classe"] = "UNKNOW",
+							["damage_taken"] = 102905.002182,
+							["nome"] = "Murloc",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Warewqrqwr"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 0,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["spellschool"] = 1,
+										["MISS"] = 1,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["dps_started"] = false,
+							["last_dps"] = 0,
+							["end_time"] = 1591354990,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1591354990,
+							["serial"] = "Creature-0-3112-0-224-285-00005A180B",
+							["fight_component"] = true,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 9,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 9,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["nome"] = "Warewqrqwr",
+							["spec"] = 70,
+							["grupo"] = true,
+							["pets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 4,
+							["classe"] = "PALADIN",
+							["tipo"] = 4,
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[326419] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 326419,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[186403] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 186403,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["serial"] = "Player-3702-098A139B",
+							["last_event"] = 1591354990,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 9,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Warewqrqwr"] = true,
+				},
+				["CombatStartedAt"] = 70548.441,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["playing_solo"] = true,
+				["totals"] = {
+					102905, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["totals_grupo"] = {
+					102905, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "13:03:10",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Murloc",
+				["TotalElapsedCombatTime"] = 1.217999999993481,
+				["CombatEndedAt"] = 70549.659,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "13:03:09",
+				["end_time"] = 70549.659,
+				["combat_id"] = 9,
+				["player_last_events"] = {
+				},
+				["tempo_start"] = 1591354988,
+				["spells_cast_timeline"] = {
+				},
+				["contra"] = "Murloc",
+				["combat_counter"] = 18,
+				["CombatSkillCache"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Warewqrqwr"] = 102905.004426,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["start_time"] = 70548.441,
+				["TimeData"] = {
+				},
+				["frags"] = {
+					["Murloc"] = 1,
+				},
+			}, -- [18]
+		},
+	},
+	["last_version"] = "v8.3.0.7325",
+	["SoloTablesSaved"] = {
+		["Mode"] = 1,
+	},
+	["tabela_instancias"] = {
+	},
+	["on_death_menu"] = true,
+	["nick_tag_cache"] = {
+		["nextreset"] = 1592578300,
+		["last_version"] = 12,
+	},
+	["last_instance_id"] = 1949,
+	["announce_interrupts"] = {
+		["enabled"] = false,
+		["whisper"] = "",
+		["channel"] = "SAY",
+		["custom"] = "",
+		["next"] = "",
+	},
+	["last_instance_time"] = 1591282307,
+	["active_profile"] = "Warewqrqwr-Argent Dawn",
+	["mythic_dungeon_currentsaved"] = {
+		["dungeon_name"] = "",
+		["started"] = false,
+		["segment_id"] = 0,
+		["ej_id"] = 0,
+		["started_at"] = 0,
+		["run_id"] = 0,
+		["level"] = 0,
+		["dungeon_zone_id"] = 0,
+		["previous_boss_killed_at"] = 0,
+	},
+	["ignore_nicktag"] = false,
+	["plugin_database"] = {
+		["DETAILS_PLUGIN_TINY_THREAT"] = {
+			["updatespeed"] = 1,
+			["animate"] = false,
+			["showamount"] = false,
+			["useplayercolor"] = false,
+			["useclasscolors"] = false,
+			["author"] = "Details! Team",
+			["playercolor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			},
+			["enabled"] = true,
+		},
+		["DETAILS_PLUGIN_RAIDCHECK"] = {
+			["enabled"] = true,
+			["food_tier1"] = true,
+			["mythic_1_4"] = true,
+			["food_tier2"] = true,
+			["author"] = "Details! Team",
+			["use_report_panel"] = true,
+			["pre_pot_healers"] = false,
+			["pre_pot_tanks"] = false,
+			["food_tier3"] = true,
+		},
+		["DETAILS_PLUGIN_VANGUARD"] = {
+			["enabled"] = true,
+			["tank_block_texture"] = "Details Serenity",
+			["tank_block_color"] = {
+				0.24705882, -- [1]
+				0.0039215, -- [2]
+				0, -- [3]
+				0.8, -- [4]
+			},
+			["show_inc_bars"] = false,
+			["author"] = "Details! Team",
+			["first_run"] = false,
+			["tank_block_size"] = 150,
+		},
+		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
+			["enabled"] = true,
+			["encounter_timers_bw"] = {
+			},
+			["max_emote_segments"] = 3,
+			["author"] = "Details! Team",
+			["window_scale"] = 1,
+			["hide_on_combat"] = false,
+			["show_icon"] = 5,
+			["opened"] = 0,
+			["encounter_timers_dbm"] = {
+			},
+		},
+		["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
+			["font_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["is_first_run"] = false,
+			["arrow_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.5, -- [4]
+			},
+			["main_frame_size"] = {
+				300, -- [1]
+				500.0000305175781, -- [2]
+			},
+			["minimap"] = {
+				["minimapPos"] = 353.3370404469839,
+				["radius"] = 160,
+				["hide"] = false,
+			},
+			["arrow_anchor_x"] = 0,
+			["row_texture"] = "Details Serenity",
+			["scale"] = 1,
+			["row_height"] = 20,
+			["point"] = "CENTER",
+			["enabled"] = false,
+			["arrow_size"] = 10,
+			["author"] = "Details! Team",
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["font_size"] = 10,
+			["use_spark"] = true,
+			["x"] = 0,
+			["font_face"] = "Friz Quadrata TT",
+			["per_second"] = {
+				["enabled"] = false,
+				["point"] = "CENTER",
+				["scale"] = 1,
+				["font_shadow"] = true,
+				["y"] = 0,
+				["x"] = 3.0517578125e-05,
+				["size"] = 32,
+				["update_speed"] = 0.05,
+				["attribute_type"] = 1,
+			},
+			["y"] = 7.62939453125e-06,
+			["main_frame_strata"] = "LOW",
+			["main_frame_locked"] = false,
+			["arrow_anchor_y"] = 0,
+		},
+	},
+	["last_day"] = "05",
+	["cached_talents"] = {
+	},
+	["announce_prepots"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+		["reverse"] = false,
+	},
+	["benchmark_db"] = {
+		["frame"] = {
+		},
+	},
+	["last_realversion"] = 140,
+	["combat_id"] = 26,
+	["savedStyles"] = {
+	},
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["combat_counter"] = 36,
+	["announce_deaths"] = {
+		["enabled"] = false,
+		["last_hits"] = 1,
+		["only_first"] = 5,
+		["where"] = 1,
+	},
+	["tabela_overall"] = {
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1297,
+					["totalabsorbed"] = 0.127109,
+					["damage_from"] = {
+						["Rogue Wizard"] = true,
+					},
+					["targets"] = {
+						["Mangy Wolf"] = 2430442,
+						["Lamepaw the Whimperer"] = 104293,
+						["Rogue Wizard"] = 107703,
+						["Murloc Streamrunner"] = 103757,
+						["Stonetusk Boar"] = 370503,
+						["Small Frog"] = 118673,
+						["Murloc"] = 500099,
+						["Deer"] = 118545,
+						["Bandit"] = 787392,
+					},
+					["pets"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 4641407.127109,
+					["on_hold"] = false,
+					["last_event"] = 0,
+					["dps_started"] = false,
+					["end_time"] = 1591286251,
+					["classe"] = "PALADIN",
+					["total"] = 4641407.127109,
+					["nome"] = "Warewqrqwr",
+					["spec"] = 70,
+					["grupo"] = true,
+					["serial"] = "Player-3702-098A139B",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 206966,
+								["g_amt"] = 0,
+								["n_max"] = 118673,
+								["targets"] = {
+									["Mangy Wolf"] = 933320,
+									["Rogue Wizard"] = 107703,
+									["Murloc Streamrunner"] = 103757,
+									["Deer"] = 118545,
+									["Murloc"] = 310846,
+									["Lamepaw the Whimperer"] = 104293,
+									["Small Frog"] = 118673,
+									["Bandit"] = 415550,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 2005721,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 20,
+								["total"] = 2212687,
+								["c_max"] = 206966,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 19,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							}, -- [1]
+							[184575] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 182611,
+								["targets"] = {
+									["Mangy Wolf"] = 547348,
+									["Bandit"] = 182587,
+									["Stonetusk Boar"] = 181162,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 911097,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 5,
+								["total"] = 911097,
+								["c_max"] = 0,
+								["id"] = 184575,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 5,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[35395] = {
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 192680,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Mangy Wolf"] = 192680,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 192680,
+								["c_max"] = 192680,
+								["id"] = 35395,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[20271] = {
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 378552,
+								["g_amt"] = 0,
+								["n_max"] = 189341,
+								["targets"] = {
+									["Mangy Wolf"] = 757094,
+									["Murloc"] = 189253,
+									["Bandit"] = 189255,
+									["Stonetusk Boar"] = 189341,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 946391,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 6,
+								["total"] = 1324943,
+								["c_max"] = 378552,
+								["id"] = 20271,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 5,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+						},
+						["tipo"] = 2,
+					},
+					["friendlyfire"] = {
+					},
+					["custom"] = 0,
+					["tipo"] = 1,
+					["damage_taken"] = 1.127109,
+					["start_time"] = 1591286205,
+					["delay"] = 0,
+					["last_dps"] = 0,
+				}, -- [1]
+				{
+					["flag_original"] = 68136,
+					["totalabsorbed"] = 0.021628,
+					["damage_from"] = {
+						["Warewqrqwr"] = true,
+					},
+					["targets"] = {
+					},
+					["pets"] = {
+					},
+					["last_event"] = 0,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.021628,
+					["dps_started"] = false,
+					["fight_component"] = true,
+					["end_time"] = 1591286251,
+					["serial"] = "Creature-0-3112-0-224-113-00005917F4",
+					["damage_taken"] = 370503.021628,
+					["nome"] = "Stonetusk Boar",
+					["spells"] = {
+						["_ActorTable"] = {
+						},
+						["tipo"] = 2,
+					},
+					["on_hold"] = false,
+					["total"] = 0.021628,
+					["friendlyfire"] = {
+					},
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1591286248,
+					["delay"] = 0,
+					["friendlyfire_total"] = 0,
+				}, -- [2]
+				{
+					["flag_original"] = 68136,
+					["totalabsorbed"] = 0.010095,
+					["damage_from"] = {
+						["Warewqrqwr"] = true,
+					},
+					["targets"] = {
+					},
+					["pets"] = {
+					},
+					["last_event"] = 0,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.010095,
+					["dps_started"] = false,
+					["fight_component"] = true,
+					["end_time"] = 1591286259,
+					["serial"] = "Creature-0-3112-0-224-883-000058FA4A",
+					["damage_taken"] = 118545.010095,
+					["nome"] = "Deer",
+					["spells"] = {
+						["_ActorTable"] = {
+						},
+						["tipo"] = 2,
+					},
+					["on_hold"] = false,
+					["total"] = 0.010095,
+					["friendlyfire"] = {
+					},
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1591286256,
+					["delay"] = 0,
+					["friendlyfire_total"] = 0,
+				}, -- [3]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 0.06908,
+					["damage_from"] = {
+						["Warewqrqwr"] = true,
+					},
+					["targets"] = {
+						["Squirrel"] = 4,
+					},
+					["pets"] = {
+					},
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 4.06908,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["dps_started"] = false,
+					["end_time"] = 1591286272,
+					["monster"] = true,
+					["friendlyfire_total"] = 0,
+					["nome"] = "Mangy Wolf",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 4,
+								["targets"] = {
+									["Squirrel"] = 4,
+									["Warewqrqwr"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 4,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 11,
+								["total"] = 4,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 1,
+								["a_dmg"] = 0,
+								["MISS"] = 10,
+							}, -- [1]
+						},
+						["tipo"] = 2,
+					},
+					["serial"] = "Creature-0-3112-0-224-525-00005919E5",
+					["total"] = 4.06908,
+					["on_hold"] = false,
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1591286267,
+					["delay"] = 0,
+					["damage_taken"] = 2430442.06908,
+				}, -- [4]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 0.019633,
+					["damage_from"] = {
+						["Warewqrqwr"] = true,
+					},
+					["targets"] = {
+					},
+					["pets"] = {
+					},
+					["last_dps"] = 0,
+					["monster"] = true,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.019633,
+					["delay"] = 0,
+					["fight_component"] = true,
+					["end_time"] = 1591354984,
+					["friendlyfire_total"] = 0,
+					["damage_taken"] = 500099.019633,
+					["nome"] = "Murloc",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Warewqrqwr"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 3,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_dmg"] = 0,
+								["MISS"] = 3,
+							}, -- [1]
+						},
+						["tipo"] = 2,
+					},
+					["tipo"] = 1,
+					["friendlyfire"] = {
+					},
+					["total"] = 0.019633,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
+					["start_time"] = 1591354981,
+					["serial"] = "Creature-0-3112-0-224-285-00005A1815",
+					["dps_started"] = false,
+				}, -- [5]
+				{
+					["flag_original"] = 68136,
+					["totalabsorbed"] = 0.013216,
+					["damage_from"] = {
+						["Warewqrqwr"] = true,
+					},
+					["targets"] = {
+					},
+					["pets"] = {
+					},
+					["tipo"] = 1,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.013216,
+					["last_dps"] = 0,
+					["fight_component"] = true,
+					["end_time"] = 1591354997,
+					["delay"] = 0,
+					["friendlyfire_total"] = 0,
+					["nome"] = "Small Frog",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Warewqrqwr"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_dmg"] = 0,
+								["MISS"] = 1,
+							}, -- [1]
+						},
+						["tipo"] = 2,
+					},
+					["damage_taken"] = 118673.013216,
+					["total"] = 0.013216,
+					["friendlyfire"] = {
+					},
+					["custom"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
+					["start_time"] = 1591354994,
+					["serial"] = "Creature-0-3112-0-224-13321-00005984DC",
+					["dps_started"] = false,
+				}, -- [6]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 0.010085,
+					["damage_from"] = {
+						["Warewqrqwr"] = true,
+					},
+					["targets"] = {
+					},
+					["pets"] = {
+					},
+					["last_dps"] = 0,
+					["monster"] = true,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.010085,
+					["delay"] = 0,
+					["fight_component"] = true,
+					["end_time"] = 1591355000,
+					["friendlyfire_total"] = 0,
+					["damage_taken"] = 103757.010085,
+					["nome"] = "Murloc Streamrunner",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Warewqrqwr"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_dmg"] = 0,
+								["MISS"] = 1,
+							}, -- [1]
+						},
+						["tipo"] = 2,
+					},
+					["tipo"] = 1,
+					["friendlyfire"] = {
+					},
+					["total"] = 0.010085,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
+					["start_time"] = 1591354997,
+					["serial"] = "Creature-0-3112-0-224-735-00005A10C4",
+					["dps_started"] = false,
+				}, -- [7]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 0.015457,
+					["damage_from"] = {
+						["Warewqrqwr"] = true,
+					},
+					["targets"] = {
+					},
+					["pets"] = {
+					},
+					["last_dps"] = 0,
+					["monster"] = true,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.015457,
+					["delay"] = 0,
+					["fight_component"] = true,
+					["end_time"] = 1591355015,
+					["friendlyfire_total"] = 0,
+					["damage_taken"] = 104293.015457,
+					["nome"] = "Lamepaw the Whimperer",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Warewqrqwr"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_dmg"] = 0,
+								["MISS"] = 1,
+							}, -- [1]
+						},
+						["tipo"] = 2,
+					},
+					["tipo"] = 1,
+					["friendlyfire"] = {
+					},
+					["total"] = 0.015457,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
+					["start_time"] = 1591355012,
+					["serial"] = "Creature-0-3112-0-224-50916-000059ECB7",
+					["dps_started"] = false,
+				}, -- [8]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 0.026791,
+					["damage_from"] = {
+						["Warewqrqwr"] = true,
+					},
+					["targets"] = {
+					},
+					["pets"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.026791,
+					["last_event"] = 0,
+					["on_hold"] = false,
+					["monster"] = true,
+					["total"] = 0.026791,
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["nome"] = "Bandit",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Warewqrqwr"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 3,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["MISS"] = 3,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+						},
+					},
+					["friendlyfire"] = {
+					},
+					["dps_started"] = false,
+					["end_time"] = 1591356547,
+					["serial"] = "Creature-0-3112-0-224-116-000059CC03",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1591356544,
+					["delay"] = 0,
+					["damage_taken"] = 787392.026791,
+				}, -- [9]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 0.008812,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["Warewqrqwr"] = true,
+					},
+					["targets"] = {
+						["Warewqrqwr"] = 1,
+					},
+					["pets"] = {
+					},
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 1.008812,
+					["last_event"] = 0,
+					["dps_started"] = false,
+					["end_time"] = 1591356558,
+					["friendlyfire"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["nome"] = "Rogue Wizard",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							[13322] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 1,
+								["targets"] = {
+									["Warewqrqwr"] = 1,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 1,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 2,
+								["total"] = 1,
+								["c_max"] = 0,
+								["id"] = 13322,
+								["r_dmg"] = 0,
+								["MISS"] = 1,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 2,
+								["b_dmg"] = 0,
+								["n_amt"] = 1,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["monster"] = true,
+					["total"] = 1.008812,
+					["serial"] = "Creature-0-3112-0-224-474-000059CC71",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["damage_taken"] = 107703.008812,
+					["start_time"] = 1591356552,
+					["delay"] = 0,
+					["last_dps"] = 0,
+				}, -- [10]
+			},
+		}, -- [1]
+		{
+			["tipo"] = 3,
+			["_ActorTable"] = {
+			},
+		}, -- [2]
+		{
+			["tipo"] = 7,
+			["_ActorTable"] = {
+				{
+					["received"] = 0.006227,
+					["resource"] = 12.069407,
+					["targets"] = {
+					},
+					["pets"] = {
+					},
+					["powertype"] = 0,
+					["classe"] = "PALADIN",
+					["passiveover"] = 0.006227,
+					["resource_type"] = 9,
+					["nome"] = "Warewqrqwr",
+					["spells"] = {
+						["_ActorTable"] = {
+						},
+						["tipo"] = 7,
+					},
+					["grupo"] = true,
+					["totalover"] = 0.006227,
+					["alternatepower"] = 0.006227,
+					["last_event"] = 0,
+					["tipo"] = 3,
+					["flag_original"] = 1297,
+					["spec"] = 70,
+					["serial"] = "Player-3702-098A139B",
+					["total"] = 0.006227,
+				}, -- [1]
+			},
+		}, -- [3]
+		{
+			["tipo"] = 9,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1047,
+					["nome"] = "Warewqrqwr",
+					["spec"] = 70,
+					["grupo"] = true,
+					["pets"] = {
+					},
+					["buff_uptime_targets"] = {
+					},
+					["buff_uptime"] = 89,
+					["last_event"] = 0,
+					["tipo"] = 4,
+					["buff_uptime_spells"] = {
+						["_ActorTable"] = {
+							[186403] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 26,
+								["appliedamt"] = 26,
+								["id"] = 186403,
+								["uptime"] = 43,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[231843] = {
+								["counter"] = 0,
+								["appliedamt"] = 2,
+								["activedamt"] = 2,
+								["actived_at"] = 1591354920,
+								["id"] = 231843,
+								["uptime"] = 3,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[326419] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 26,
+								["appliedamt"] = 26,
+								["id"] = 326419,
+								["uptime"] = 43,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+						["tipo"] = 9,
+					},
+					["serial"] = "Player-3702-098A139B",
+					["classe"] = "PALADIN",
+				}, -- [1]
+				{
+					["monster"] = true,
+					["tipo"] = 4,
+					["nome"] = "Rogue Wizard",
+					["pets"] = {
+					},
+					["spell_cast"] = {
+						[13322] = 2,
+					},
+					["flag_original"] = 2632,
+					["last_event"] = 0,
+					["fight_component"] = true,
+					["serial"] = "Creature-0-3112-0-224-474-000059CC71",
+					["classe"] = "UNKNOW",
+				}, -- [2]
+			},
+		}, -- [4]
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [5]
+		["raid_roster"] = {
+		},
+		["tempo_start"] = 1591286250,
+		["last_events_tables"] = {
+		},
+		["alternate_power"] = {
+		},
+		["spells_cast_timeline"] = {
+		},
+		["combat_counter"] = 8,
+		["totals"] = {
+			4641412.278262, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["cooldowns_defensive"] = 0,
+				["dispell"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+			["frags_total"] = 0,
+			["voidzone_damage"] = 0,
+		},
+		["player_last_events"] = {
+		},
+		["frags_need_refresh"] = false,
+		["aura_timeline"] = {
+		},
+		["__call"] = {
+		},
+		["data_inicio"] = "17:57:30",
+		["end_time"] = 72141.532,
+		["cleu_events"] = {
+			["n"] = 1,
+		},
+		["totals_grupo"] = {
+			4641407.121395, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["cooldowns_defensive"] = 0,
+				["dispell"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+		},
+		["overall_refreshed"] = true,
+		["frags"] = {
+		},
+		["hasSaved"] = true,
+		["segments_added"] = {
+			{
+				["elapsed"] = 0.94100000000617,
+				["type"] = 0,
+				["name"] = "Mangy Wolf",
+				["clock"] = "13:29:41",
+			}, -- [1]
+			{
+				["elapsed"] = 0.9199999999982538,
+				["type"] = 0,
+				["name"] = "Mangy Wolf",
+				["clock"] = "13:29:37",
+			}, -- [2]
+			{
+				["elapsed"] = 1.206999999994878,
+				["type"] = 0,
+				["name"] = "Mangy Wolf",
+				["clock"] = "13:29:32",
+			}, -- [3]
+			{
+				["elapsed"] = 1.408000000010361,
+				["type"] = 0,
+				["name"] = "Mangy Wolf",
+				["clock"] = "13:29:27",
+			}, -- [4]
+			{
+				["elapsed"] = 6.760999999998603,
+				["type"] = 0,
+				["name"] = "Rogue Wizard",
+				["clock"] = "13:29:11",
+			}, -- [5]
+			{
+				["elapsed"] = 1.219999999986612,
+				["type"] = 0,
+				["name"] = "Bandit",
+				["clock"] = "13:29:08",
+			}, -- [6]
+			{
+				["elapsed"] = 1.272000000011758,
+				["type"] = 0,
+				["name"] = "Bandit",
+				["clock"] = "13:29:05",
+			}, -- [7]
+			{
+				["elapsed"] = 1.220000000001164,
+				["type"] = 0,
+				["name"] = "Mangy Wolf",
+				["clock"] = "13:25:32",
+			}, -- [8]
+			{
+				["elapsed"] = 0.8429999999934807,
+				["type"] = 0,
+				["name"] = "Mangy Wolf",
+				["clock"] = "13:04:00",
+			}, -- [9]
+			{
+				["elapsed"] = 0.8509999999951106,
+				["type"] = 0,
+				["name"] = "Mangy Wolf",
+				["clock"] = "13:03:50",
+			}, -- [10]
+			{
+				["elapsed"] = 1.20700000000943,
+				["type"] = 0,
+				["name"] = "Mangy Wolf",
+				["clock"] = "13:03:44",
+			}, -- [11]
+			{
+				["elapsed"] = 0.2299999999959255,
+				["type"] = 0,
+				["name"] = "Mangy Wolf",
+				["clock"] = "13:03:37",
+			}, -- [12]
+			{
+				["elapsed"] = 7.789000000004307,
+				["type"] = 0,
+				["name"] = "Mangy Wolf",
+				["clock"] = "13:03:27",
+			}, -- [13]
+			{
+				["elapsed"] = 0.9479999999894062,
+				["type"] = 0,
+				["name"] = "Mangy Wolf",
+				["clock"] = "13:03:24",
+			}, -- [14]
+			{
+				["elapsed"] = 0.9860000000044238,
+				["type"] = 0,
+				["name"] = "Murloc Streamrunner",
+				["clock"] = "13:03:19",
+			}, -- [15]
+			{
+				["elapsed"] = 1.035999999992782,
+				["type"] = 0,
+				["name"] = "Small Frog",
+				["clock"] = "13:03:16",
+			}, -- [16]
+			{
+				["elapsed"] = 1.100999999995111,
+				["type"] = 0,
+				["name"] = "Murloc",
+				["clock"] = "13:03:12",
+			}, -- [17]
+			{
+				["elapsed"] = 1.217999999993481,
+				["type"] = 0,
+				["name"] = "Murloc",
+				["clock"] = "13:03:09",
+			}, -- [18]
+			{
+				["elapsed"] = 1.233000000007451,
+				["type"] = 0,
+				["name"] = "Murloc",
+				["clock"] = "13:03:06",
+			}, -- [19]
+			{
+				["elapsed"] = 1.489000000001397,
+				["type"] = 0,
+				["name"] = "Murloc",
+				["clock"] = "13:03:03",
+			}, -- [20]
+			{
+				["elapsed"] = 1.539999999993597,
+				["type"] = 0,
+				["name"] = "Mangy Wolf",
+				["clock"] = "13:02:20",
+			}, -- [21]
+			{
+				["elapsed"] = 2.789000000004307,
+				["type"] = 0,
+				["name"] = "Mangy Wolf",
+				["clock"] = "13:01:58",
+			}, -- [22]
+			{
+				["elapsed"] = 0.9829999999999472,
+				["type"] = 0,
+				["name"] = "Mangy Wolf",
+				["clock"] = "17:57:52",
+			}, -- [23]
+			{
+				["elapsed"] = 1.644000000000006,
+				["type"] = 0,
+				["name"] = "Stonetusk Boar",
+				["clock"] = "17:57:42",
+			}, -- [24]
+			{
+				["elapsed"] = 1.076000000000022,
+				["type"] = 0,
+				["name"] = "Deer",
+				["clock"] = "17:57:38",
+			}, -- [25]
+			{
+				["elapsed"] = 1.210000000000036,
+				["type"] = 0,
+				["name"] = "Stonetusk Boar",
+				["clock"] = "17:57:30",
+			}, -- [26]
+		},
+		["data_fim"] = "13:29:42",
+		["overall_enemy_name"] = "-- x -- x --",
+		["CombatSkillCache"] = {
+		},
+		["PhaseData"] = {
+			{
+				1, -- [1]
+				1, -- [2]
+			}, -- [1]
+			["damage_section"] = {
+			},
+			["heal_section"] = {
+			},
+			["heal"] = {
+			},
+			["damage"] = {
+			},
+		},
+		["start_time"] = 72098.41000000002,
+		["TimeData"] = {
+			["Raid Damage Done"] = {
+			},
+		},
+		["cleu_timeline"] = {
+		},
+	},
+	["force_font_outline"] = "",
+	["local_instances_config"] = {
+		{
+			["segment"] = 0,
+			["sub_attribute"] = 1,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["is_open"] = true,
+			["isLocked"] = false,
+			["snap"] = {
+			},
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -397.500244140625,
+					["x"] = 504.9986572265625,
+					["w"] = 310,
+					["h"] = 157.9999542236328,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [1]
+	},
+	["character_data"] = {
+		["logons"] = 5,
+	},
+	["announce_cooldowns"] = {
+		["enabled"] = false,
+		["ignored_cooldowns"] = {
+		},
+		["custom"] = "",
+		["channel"] = "RAID",
+	},
+	["rank_window"] = {
+		["last_difficulty"] = 15,
+		["last_raid"] = "",
+	},
+	["announce_damagerecord"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["cached_specs"] = {
+		["Player-3702-098A139B"] = 70,
+	},
+}

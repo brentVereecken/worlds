@@ -1,0 +1,5 @@
+Details_Streamer: disabled
+Details_TinyThreat: disabled
+Enchantrix: disabled
+Enchantrix-Barker: disabled
+SlideBar: disabled

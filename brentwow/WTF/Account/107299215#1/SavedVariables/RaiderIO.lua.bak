@@ -1,0 +1,21 @@
+
+RaiderIO_Config = {
+}
+RaiderIO_LastCharacter = "eu-Robøt-silvermoon"
+RaiderIO_MissingCharacters = {
+	["eu-Schanze-silvermoon"] = true,
+	["eu-Lyonaxis-silvermoon"] = true,
+	["eu-Knorek-wildhammer"] = true,
+	["eu-Ðamágé-silvermoon"] = true,
+	["eu-Aigods-silvermoon"] = true,
+	["eu-Robøt-silvermoon"] = true,
+	["eu-Litleragebar-ravencrest"] = true,
+	["eu-Nornm-silvermoon"] = true,
+	["eu-Lisandrra-silvermoon"] = true,
+	["eu-Syala-silvermoon"] = true,
+	["eu-Willcutting-silvermoon"] = true,
+	["eu-Healsforday-silvermoon"] = true,
+	["eu-Deadlydamage-kazzak"] = true,
+	["eu-Druco-silvermoon"] = true,
+}
+RaiderIO_CachedRuns = nil

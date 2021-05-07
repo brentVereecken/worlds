@@ -1,0 +1,11 @@
+VER 3 0100000000000003 "asdaf" "INV_MISC_QUESTIONMARK"
+#showtooltip [harm] Crusader Strike; Flash of Light
+/cast [@mouseover,help,nodead][@target,help,nodead] Flash of Light; [harm] Crusader Strike; [@player] Flash of Light
+END
+VER 3 0100000000000001 "chicken" "132131"
+END
+VER 3 0100000000000002 "Final reck" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Divine Toll(Kyrian)
+/use Sinful Aspirant's Badge of Ferocity
+END

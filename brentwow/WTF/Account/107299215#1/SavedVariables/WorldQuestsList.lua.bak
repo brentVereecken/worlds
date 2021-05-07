@@ -1,0 +1,549 @@
+
+VWQL = {
+	["Adgfasgf-Magtheridon"] = {
+		["VERSION"] = 92,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["Filter"] = 63,
+	},
+	["Esgasdasd-ArgentDawn"] = {
+		["VERSION"] = 92,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["Filter"] = 63,
+	},
+	["Throated-Magtheridon"] = {
+		["VERSION"] = 98,
+		["Filter"] = 63,
+		["RegularQuestMode"] = true,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["Sort"] = 5,
+	["Robøt-Silvermoon"] = {
+		["Filter"] = 63,
+		["VERSION"] = 100,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["Aewaerqwr-Magtheridon"] = {
+		["VERSION"] = 92,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["Filter"] = 63,
+	},
+	["Vayegra-Magtheridon"] = {
+		["VERSION"] = 96,
+		["Filter"] = 63,
+		["RegularQuestMode"] = true,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["ReverseSort"] = false,
+	["Alinaa-ArgentDawn"] = {
+		["VERSION"] = 99,
+		["Filter"] = 63,
+		["RegularQuestMode"] = true,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["SortPrio"] = {
+	},
+	["Safdsfas-ArgentDawn"] = {
+		["VERSION"] = 92,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["Filter"] = 63,
+	},
+	["Dsfzahsawds-Silvermoon"] = {
+		["Filter"] = 63,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["VERSION"] = 96,
+	},
+	["Gorotski-Sylvanas"] = {
+		["VERSION"] = 94,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["Filter"] = 63,
+	},
+	["OppositeContinentNazjatar"] = false,
+	["Siveron-Magtheridon"] = {
+		["VERSION"] = 92,
+		["Filter"] = 63,
+		["Quests"] = {
+			[50984] = true,
+			[51034] = true,
+			[52163] = true,
+			[43943] = true,
+		},
+		["FilterType"] = {
+		},
+	},
+	["Lialina-Silvermoon"] = {
+		["Filter"] = 63,
+		["VERSION"] = 99,
+		["RegularQuestMode"] = true,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["Dawdhauiw-Magtheridon"] = {
+		["Filter"] = 63,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["VERSION"] = 97,
+	},
+	["Gfdsggdf-ArgentDawn"] = {
+		["Filter"] = 63,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["VERSION"] = 92,
+	},
+	["Irohasu-Magtheridon"] = {
+		["VERSION"] = 100,
+		["Filter"] = 63,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["Wyfu-Silvermoon"] = {
+		["Filter"] = 63,
+		["VERSION"] = 100,
+		["RegularQuestMode"] = true,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["Tgkjsfeg-ArgentDawn"] = {
+		["VERSION"] = 92,
+		["Filter"] = 63,
+		["RegularQuestMode"] = true,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["DisableShellGame"] = false,
+	["Rootkid-Ravencrest"] = {
+		["Filter"] = 63,
+		["VERSION"] = 95,
+		["RegularQuestMode"] = true,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["Arrow_PointX"] = -50.19612884521484,
+	["Warewqrqwr-ArgentDawn"] = {
+		["Filter"] = 63,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["VERSION"] = 92,
+	},
+	["Whorny-Magtheridon"] = {
+		["VERSION"] = 92,
+		["Filter"] = 63,
+		["RegularQuestMode"] = true,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["Vlaming-TwistingNether"] = {
+		["FilterType"] = {
+		},
+		["VERSION"] = 99,
+		["Quests"] = {
+			[41864] = true,
+			[41692] = true,
+			[44895] = true,
+			[43598] = true,
+			[45069] = true,
+			[43247] = true,
+			[42025] = true,
+			[54528] = true,
+			[54896] = true,
+		},
+		["Filter"] = 63,
+	},
+	["Doshi-ArgentDawn"] = {
+		["FilterType"] = {
+		},
+		["Filter"] = 63,
+		["Quests"] = {
+		},
+		["VERSION"] = 100,
+	},
+	["HideLegion"] = true,
+	["Dfasgdrsghdf-TwistingNether"] = {
+		["VERSION"] = 92,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["Filter"] = 63,
+	},
+	["Mantrax-DefiasBrotherhood"] = {
+		["VERSION"] = 92,
+		["Filter"] = 63,
+		["RegularQuestMode"] = true,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["Bhumbhum-ArgentDawn"] = {
+		["Filter"] = 63,
+		["VERSION"] = 92,
+		["RegularQuestMode"] = true,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["Nicoledoshi-Silvermoon"] = {
+		["VERSION"] = 96,
+		["Filter"] = 63,
+		["RegularQuestMode"] = true,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["Lightseeber-ArgentDawn"] = {
+		["VERSION"] = 99,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["Filter"] = 63,
+	},
+	["Aace-ArgentDawn"] = {
+		["VERSION"] = 92,
+		["Filter"] = 63,
+		["RegularQuestMode"] = true,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["VERSION"] = 100,
+	["Squirtstar-Magtheridon"] = {
+		["VERSION"] = 92,
+		["Filter"] = 63,
+		["RegularQuestMode"] = true,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["Ftivryd-Magtheridon"] = {
+		["VERSION"] = 92,
+		["Filter"] = 63,
+		["RegularQuestMode"] = true,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["Arrow_Point1"] = "TOP",
+	["Ghfdrtrt-ArgentDawn"] = {
+		["VERSION"] = 92,
+		["Filter"] = 63,
+		["RegularQuestMode"] = true,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["Arrow_PointY"] = -36.75289916992188,
+	["Charmfarmlol-ArgentDawn"] = {
+		["VERSION"] = 99,
+		["Filter"] = 63,
+		["RegularQuestMode"] = true,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["Rootkid-ArgentDawn"] = {
+		["Filter"] = 63,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["VERSION"] = 94,
+	},
+	["Lialina-ArgentDawn"] = {
+		["VERSION"] = 100,
+		["Filter"] = 63,
+		["RegularQuestMode"] = true,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["Monhan-Silvermoon"] = {
+		["VERSION"] = 99,
+		["Filter"] = 63,
+		["RegularQuestMode"] = true,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["Lillbits-Silvermoon"] = {
+		["VERSION"] = 96,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["Filter"] = 63,
+	},
+	["Iillith-Ravencrest"] = {
+		["Filter"] = 63,
+		["VERSION"] = 94,
+		["RegularQuestMode"] = true,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["Niapeht-Alonsus"] = {
+		["VERSION"] = 92,
+		["Filter"] = 63,
+		["RegularQuestMode"] = true,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["ShowQuestAchievements"] = false,
+	["Aramaki-Silvermoon"] = {
+		["Filter"] = 63,
+		["VERSION"] = 100,
+		["Quests"] = {
+			[60659] = true,
+			[61411] = true,
+			[60564] = true,
+			[60476] = true,
+			[60844] = true,
+			[60837] = true,
+			[59600] = true,
+			[57650] = true,
+			[61949] = true,
+		},
+		["FilterType"] = {
+		},
+	},
+	["Scale"] = 0.8,
+	["Sdfsghdh-ArgentDawn"] = {
+		["Filter"] = 63,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["VERSION"] = 92,
+	},
+	["DisableIconsGeneralMap947"] = true,
+	["DisableRewardIcons"] = false,
+	["Gffdshasd-ArgentDawn"] = {
+		["VERSION"] = 92,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["Filter"] = 63,
+	},
+	["Asdfghjhfgj-Silvermoon"] = {
+		["VERSION"] = 96,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["Filter"] = 63,
+	},
+	["Asdfasdfews-ArgentDawn"] = {
+		["VERSION"] = 92,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["Filter"] = 63,
+	},
+	["DisableLFG"] = true,
+	["Felreefer-Sylvanas"] = {
+		["Filter"] = 63,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["VERSION"] = 94,
+	},
+	["Massivebank-Magtheridon"] = {
+		["VERSION"] = 92,
+		["Filter"] = 63,
+		["RegularQuestMode"] = true,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["Shamanal-Silvermoon"] = {
+		["Filter"] = 63,
+		["VERSION"] = 99,
+		["RegularQuestMode"] = true,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["Arrow_Point2"] = "TOP",
+	["Oufti-ArgentDawn"] = {
+		["VERSION"] = 95,
+		["Filter"] = 63,
+		["RegularQuestMode"] = true,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["Crowkiller-Alonsus"] = {
+		["VERSION"] = 92,
+		["Filter"] = 63,
+		["RegularQuestMode"] = true,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["Iillith-ArgentDawn"] = {
+		["Filter"] = 63,
+		["VERSION"] = 100,
+		["HideMap"] = true,
+		["RegularQuestMode"] = true,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["Dsgghjaer-ArgentDawn"] = {
+		["VERSION"] = 92,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["Filter"] = 63,
+	},
+	["Fajtehug-ArgentDawn"] = {
+		["Filter"] = 63,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["VERSION"] = 92,
+	},
+	["Surytyeqw-ArgentDawn"] = {
+		["Filter"] = 63,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["VERSION"] = 92,
+	},
+	["DisableIconsGeneral"] = false,
+	["Dasfasd-ArgentDawn"] = {
+		["VERSION"] = 92,
+		["Filter"] = 63,
+		["RegularQuestMode"] = true,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["Ignore"] = {
+	},
+	["Dfhujse-ArgentDawn"] = {
+		["VERSION"] = 92,
+		["Filter"] = 63,
+		["RegularQuestMode"] = true,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["Samsepiol-Silvermoon"] = {
+		["Filter"] = 63,
+		["VERSION"] = 100,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["Oufti-Ravencrest"] = {
+		["VERSION"] = 95,
+		["Filter"] = 63,
+		["RegularQuestMode"] = true,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["Felreefer-Magtheridon"] = {
+		["VERSION"] = 99,
+		["Filter"] = 63,
+		["RegularQuestMode"] = true,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["AzeriteFormat"] = 20,
+	["Wewewewdsd-Magtheridon"] = {
+		["Filter"] = 63,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["VERSION"] = 92,
+	},
+	["Gdsfgdfsggh-TwistingNether"] = {
+		["Filter"] = 63,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["VERSION"] = 98,
+	},
+	["MapIconsScale"] = 1.05,
+}

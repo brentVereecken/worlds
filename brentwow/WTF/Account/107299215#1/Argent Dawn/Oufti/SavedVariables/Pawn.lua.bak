@@ -1,0 +1,65 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0405,
+	["LastPlayerFullName"] = "Oufti-Argent Dawn",
+	["AutoSelectScales"] = true,
+	["ItemLevels"] = {
+		{
+			["ID"] = 122249,
+			["Level"] = 14,
+			["Link"] = "|cff00ccff|Hitem:122249::::::::11:103:::::::|h[Preened Tribal War Feathers]|h|r",
+		}, -- [1]
+		{
+			["ID"] = 122664,
+			["Level"] = 14,
+			["Link"] = "|cff00ccff|Hitem:122664::::::::11:103:::::::|h[Eternal Horizon Choker]|h|r",
+		}, -- [2]
+		{
+			["ID"] = 122359,
+			["Level"] = 14,
+			["Link"] = "|cff00ccff|Hitem:122359::::::::11:103:::::::|h[Preened Ironfeather Shoulders]|h|r",
+		}, -- [3]
+		[6] = {
+			["ID"] = 54868,
+			["Level"] = 9,
+			["Link"] = "|cffffffff|Hitem:54868::::::::11:103::11:1:3795:1:9:8:::|h[Gritroot Belt]|h|r",
+		},
+		[7] = {
+			["ID"] = 122255,
+			["Level"] = 14,
+			["Link"] = "|cff00ccff|Hitem:122255::::::::11:103:::::::|h[Preened Wildfeather Leggings]|h|r",
+		},
+		[15] = {
+			["ID"] = 122262,
+			["Level"] = 14,
+			["Link"] = "|cff00ccff|Hitem:122262::::::::11:103:::1:582::::|h[Ancient Bloodmoon Cloak]|h|r",
+		},
+		[16] = {
+			["ID"] = 122363,
+			["Level"] = 14,
+			["Link"] = "|cff00ccff|Hitem:122363::::::::11:103:::::::|h[Burnished Warden Staff]|h|r",
+		},
+		[13] = {
+			["ID"] = 122362,
+			["Level"] = 14,
+			["AlsoFitsIn"] = 14,
+			["Link"] = "|cff00ccff|Hitem:122362::::::::11:103:::::::|h[Discerning Eye of the Beast]|h|r",
+		},
+		[5] = {
+			["ID"] = 122382,
+			["Level"] = 14,
+			["Link"] = "|cff00ccff|Hitem:122382::::::::11:103:::::::|h[Preened Ironfeather Breastplate]|h|r",
+		},
+		[9] = {
+			["ID"] = 5419,
+			["Level"] = 8,
+			["Link"] = "|cffffffff|Hitem:5419::::::::11:103::11:1:3795:1:9:7:::|h[Feral Bracers]|h|r",
+		},
+	},
+	["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "DRUID",
+	["LastAdded"] = 1,
+}
+PawnClassicScaleProviderOptions = nil

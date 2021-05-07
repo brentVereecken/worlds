@@ -1,0 +1,1195 @@
+
+_detalhes_database = {
+	["savedbuffs"] = {
+	},
+	["mythic_dungeon_id"] = 0,
+	["tabela_historico"] = {
+		["tabelas"] = {
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 605,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.003034,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Squirrel"] = 117,
+							},
+							["pets"] = {
+							},
+							["aID"] = "3702-098A5EE7",
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 117.003034,
+							["classe"] = "PALADIN",
+							["serial"] = "Player-3702-098A5EE7",
+							["dps_started"] = false,
+							["end_time"] = 1607993066,
+							["on_hold"] = false,
+							["total"] = 117.003034,
+							["nome"] = "Alinaa",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 117,
+										["targets"] = {
+											["Squirrel"] = 117,
+										},
+										["n_dmg"] = 117,
+										["n_min"] = 117,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 117,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["grupo"] = true,
+							["last_event"] = 1607993065,
+							["colocacao"] = 1,
+							["spec"] = 70,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.003034,
+							["start_time"] = 1607993065,
+							["delay"] = 0,
+							["last_dps"] = 1170.03034,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 0.008238,
+							["damage_from"] = {
+								["Alinaa"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["aID"] = "1412",
+							["damage_taken"] = 117.008238,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.008238,
+							["serial"] = "Creature-0-4243-571-17420-1412-000057EC4C",
+							["fight_component"] = true,
+							["total"] = 0.008238,
+							["dps_started"] = false,
+							["on_hold"] = false,
+							["nome"] = "Squirrel",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["tipo"] = 1,
+							["end_time"] = 1607993066,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1607993066,
+							["delay"] = 0,
+							["classe"] = "UNKNOW",
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 605,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 605,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 605,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 70,
+							["grupo"] = true,
+							["last_event"] = 1610297974,
+							["pets"] = {
+							},
+							["nome"] = "Alinaa",
+							["buff_uptime"] = 3,
+							["tipo"] = 4,
+							["classe"] = "PALADIN",
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[93795] = {
+										["appliedamt"] = 1,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 93795,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[32223] = {
+										["appliedamt"] = 1,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 32223,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[269083] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 269083,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[23214] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 23214,
+										["uptime"] = 0,
+										["targets"] = {
+										},
+										["appliedamt"] = 0,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["serial"] = "Player-3702-098A5EE7",
+							["aID"] = "3702-098A5EE7",
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 605,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Alinaa"] = true,
+				},
+				["CombatStartedAt"] = 11360.764,
+				["tempo_start"] = 1607993065,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 1768,
+				["playing_solo"] = true,
+				["totals"] = {
+					116.9421449999996, -- [1]
+					-0.1676410000000373, -- [2]
+					{
+						0, -- [1]
+						[0] = -0.01377799999989878,
+						["alternatepower"] = 0,
+						[3] = -0.004356000000000001,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "17:59:35",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Squirrel",
+				["TotalElapsedCombatTime"] = 14.56899999999951,
+				["CombatEndedAt"] = 11375.333,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Alinaa"] = 117.003034,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 11375.333,
+				["combat_id"] = 605,
+				["data_inicio"] = "01:44:26",
+				["spells_cast_timeline"] = {
+				},
+				["overall_added"] = true,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					117, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 126959.081,
+				["TimeData"] = {
+				},
+				["frags"] = {
+					["Squirrel"] = 1,
+				},
+			}, -- [1]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 605,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.003034,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Squirrel"] = 117,
+							},
+							["pets"] = {
+							},
+							["aID"] = "3702-098A5EE7",
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 117.003034,
+							["classe"] = "PALADIN",
+							["serial"] = "Player-3702-098A5EE7",
+							["dps_started"] = false,
+							["end_time"] = 1607993066,
+							["on_hold"] = false,
+							["total"] = 117.003034,
+							["nome"] = "Alinaa",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 117,
+										["targets"] = {
+											["Squirrel"] = 117,
+										},
+										["n_dmg"] = 117,
+										["n_min"] = 117,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 117,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["grupo"] = true,
+							["last_event"] = 1607993065,
+							["colocacao"] = 1,
+							["spec"] = 70,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.003034,
+							["start_time"] = 1607993065,
+							["delay"] = 0,
+							["last_dps"] = 1170.03034,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 0.008238,
+							["damage_from"] = {
+								["Alinaa"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["aID"] = "1412",
+							["damage_taken"] = 117.008238,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.008238,
+							["serial"] = "Creature-0-4243-571-17420-1412-000057EC4C",
+							["fight_component"] = true,
+							["total"] = 0.008238,
+							["dps_started"] = false,
+							["on_hold"] = false,
+							["nome"] = "Squirrel",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["tipo"] = 1,
+							["end_time"] = 1607993066,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1607993066,
+							["delay"] = 0,
+							["classe"] = "UNKNOW",
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 605,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 605,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 605,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 70,
+							["grupo"] = true,
+							["last_event"] = 1610297974,
+							["pets"] = {
+							},
+							["nome"] = "Alinaa",
+							["buff_uptime"] = 3,
+							["tipo"] = 4,
+							["classe"] = "PALADIN",
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[93795] = {
+										["appliedamt"] = 1,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 93795,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[32223] = {
+										["appliedamt"] = 1,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 32223,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[269083] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 269083,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[23214] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 23214,
+										["uptime"] = 0,
+										["targets"] = {
+										},
+										["appliedamt"] = 0,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["serial"] = "Player-3702-098A5EE7",
+							["aID"] = "3702-098A5EE7",
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 605,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Alinaa"] = true,
+				},
+				["CombatStartedAt"] = 11360.764,
+				["tempo_start"] = 1607993065,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 1768,
+				["playing_solo"] = true,
+				["totals"] = {
+					116.968817, -- [1]
+					-0.1425500000000373, -- [2]
+					{
+						0, -- [1]
+						[0] = -0.01377799999989878,
+						["alternatepower"] = 0,
+						[3] = -0.002395,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "17:59:35",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Squirrel",
+				["TotalElapsedCombatTime"] = 14.56899999999951,
+				["CombatEndedAt"] = 11375.333,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Alinaa"] = 117.003034,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 11375.333,
+				["combat_id"] = 605,
+				["data_inicio"] = "01:44:26",
+				["spells_cast_timeline"] = {
+				},
+				["overall_added"] = true,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					117, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 126959.081,
+				["TimeData"] = {
+				},
+				["frags"] = {
+					["Squirrel"] = 1,
+				},
+			}, -- [2]
+		},
+	},
+	["ocd_tracker"] = {
+		["enabled"] = false,
+		["current_cooldowns"] = {
+		},
+		["cooldowns"] = {
+		},
+		["show_conditions"] = {
+			["only_inside_instance"] = true,
+			["only_in_group"] = true,
+		},
+		["show_options"] = false,
+		["pos"] = {
+		},
+	},
+	["last_version"] = "v9.0.2.8246",
+	["SoloTablesSaved"] = {
+		["Mode"] = 1,
+	},
+	["tabela_instancias"] = {
+	},
+	["coach"] = {
+		["enabled"] = false,
+		["welcome_panel_pos"] = {
+		},
+		["last_coach_name"] = false,
+	},
+	["on_death_menu"] = true,
+	["nick_tag_cache"] = {
+		["nextreset"] = 1615984401,
+		["last_version"] = 14,
+	},
+	["last_instance_id"] = 960,
+	["announce_interrupts"] = {
+		["enabled"] = false,
+		["whisper"] = "",
+		["channel"] = "SAY",
+		["custom"] = "",
+		["next"] = "",
+	},
+	["last_instance_time"] = 1592443514,
+	["active_profile"] = "Vlaming-Twisting Nether",
+	["mythic_dungeon_currentsaved"] = {
+		["dungeon_name"] = "",
+		["started"] = false,
+		["segment_id"] = 0,
+		["ej_id"] = 0,
+		["started_at"] = 0,
+		["run_id"] = 0,
+		["level"] = 0,
+		["dungeon_zone_id"] = 0,
+		["previous_boss_killed_at"] = 0,
+	},
+	["ignore_nicktag"] = false,
+	["plugin_database"] = {
+		["DETAILS_PLUGIN_TINY_THREAT"] = {
+			["updatespeed"] = 1,
+			["showamount"] = false,
+			["animate"] = false,
+			["useplayercolor"] = false,
+			["useclasscolors"] = false,
+			["author"] = "Details! Team",
+			["playercolor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			},
+			["enabled"] = true,
+		},
+		["DETAILS_PLUGIN_RAIDCHECK"] = {
+			["enabled"] = true,
+			["food_tier1"] = true,
+			["mythic_1_4"] = true,
+			["food_tier2"] = true,
+			["author"] = "Details! Team",
+			["use_report_panel"] = true,
+			["pre_pot_healers"] = false,
+			["pre_pot_tanks"] = false,
+			["food_tier3"] = true,
+		},
+		["DETAILS_PLUGIN_VANGUARD"] = {
+			["enabled"] = true,
+			["tank_block_color"] = {
+				0.24705882, -- [1]
+				0.0039215, -- [2]
+				0, -- [3]
+				0.8, -- [4]
+			},
+			["show_inc_bars"] = false,
+			["author"] = "Details! Team",
+			["first_run"] = false,
+			["tank_block_size"] = 150,
+			["bar_height"] = 24,
+			["tank_block_texture"] = "Details Serenity",
+			["tank_block_height"] = 40,
+		},
+		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
+			["enabled"] = true,
+			["encounter_timers_bw"] = {
+			},
+			["max_emote_segments"] = 3,
+			["last_section_selected"] = "main",
+			["author"] = "Details! Team",
+			["window_scale"] = 1,
+			["hide_on_combat"] = false,
+			["show_icon"] = 5,
+			["opened"] = 0,
+			["encounter_timers_dbm"] = {
+			},
+		},
+		["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
+			["font_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["is_first_run"] = false,
+			["grow_direction"] = "right",
+			["arrow_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.5, -- [4]
+			},
+			["main_frame_size"] = {
+				300, -- [1]
+				500.0000305175781, -- [2]
+			},
+			["minimap"] = {
+				["minimapPos"] = 2.436593252088649,
+				["radius"] = 160,
+				["hide"] = true,
+			},
+			["scale"] = 1,
+			["arrow_anchor_x"] = 0,
+			["row_height"] = 20,
+			["row_texture"] = "Details Serenity",
+			["point"] = "CENTER",
+			["main_frame_strata"] = "LOW",
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
+			["square_amount"] = 5,
+			["enabled"] = false,
+			["arrow_size"] = 10,
+			["per_second"] = {
+				["enabled"] = false,
+				["point"] = "CENTER",
+				["scale"] = 1,
+				["font_shadow"] = true,
+				["y"] = 0,
+				["x"] = 3.0517578125e-05,
+				["size"] = 32,
+				["update_speed"] = 0.05,
+				["attribute_type"] = 1,
+			},
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["author"] = "Details! Team",
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["font_size"] = 10,
+			["use_spark"] = true,
+			["x"] = 0,
+			["font_face"] = "Friz Quadrata TT",
+			["square_size"] = 32,
+			["y"] = 7.62939453125e-06,
+			["arrow_anchor_y"] = 0,
+			["main_frame_locked"] = false,
+			["use_square_mode"] = false,
+		},
+	},
+	["last_day"] = "02",
+	["cd_tracker"] = {
+		["enabled"] = false,
+		["cds_enabled"] = {
+		},
+		["show_conditions"] = {
+			["only_inside_instance"] = true,
+			["only_in_group"] = true,
+		},
+		["pos"] = {
+		},
+	},
+	["cached_talents"] = {
+	},
+	["announce_prepots"] = {
+		["enabled"] = false,
+		["channel"] = "SELF",
+		["reverse"] = false,
+	},
+	["benchmark_db"] = {
+		["frame"] = {
+		},
+	},
+	["last_realversion"] = 144,
+	["combat_id"] = 605,
+	["savedStyles"] = {
+	},
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["combat_counter"] = 1772,
+	["announce_deaths"] = {
+		["enabled"] = false,
+		["last_hits"] = 1,
+		["only_first"] = 5,
+		["where"] = 1,
+	},
+	["tabela_overall"] = {
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1297,
+					["totalabsorbed"] = 0.0078,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["Squirrel"] = 117,
+					},
+					["serial"] = "Player-3702-098A5EE7",
+					["pets"] = {
+					},
+					["on_hold"] = false,
+					["friendlyfire_total"] = 0,
+					["aID"] = "3702-098A5EE7",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 117.0078,
+					["classe"] = "PALADIN",
+					["dps_started"] = false,
+					["end_time"] = 1607993067,
+					["last_dps"] = 0,
+					["last_event"] = 0,
+					["nome"] = "Alinaa",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 117,
+								["targets"] = {
+									["Squirrel"] = 117,
+								},
+								["n_dmg"] = 117,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 117,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 1,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							}, -- [1]
+						},
+						["tipo"] = 2,
+					},
+					["grupo"] = true,
+					["spec"] = 70,
+					["total"] = 117.0078,
+					["custom"] = 0,
+					["tipo"] = 1,
+					["friendlyfire"] = {
+					},
+					["start_time"] = 1607993063,
+					["delay"] = 0,
+					["damage_taken"] = 0.0078,
+				}, -- [1]
+				{
+					["flag_original"] = 68136,
+					["totalabsorbed"] = 0.011926,
+					["damage_from"] = {
+						["Alinaa"] = true,
+					},
+					["targets"] = {
+					},
+					["pets"] = {
+					},
+					["aID"] = "1412",
+					["last_dps"] = 0,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.011926,
+					["serial"] = "Creature-0-4243-571-17420-1412-000057EC4C",
+					["fight_component"] = true,
+					["end_time"] = 1607993067,
+					["friendlyfire_total"] = 0,
+					["damage_taken"] = 117.011926,
+					["nome"] = "Squirrel",
+					["spells"] = {
+						["_ActorTable"] = {
+						},
+						["tipo"] = 2,
+					},
+					["last_event"] = 0,
+					["total"] = 0.011926,
+					["dps_started"] = false,
+					["custom"] = 0,
+					["tipo"] = 1,
+					["friendlyfire"] = {
+					},
+					["start_time"] = 1607993064,
+					["delay"] = 0,
+					["on_hold"] = false,
+				}, -- [2]
+			},
+		}, -- [1]
+		{
+			["tipo"] = 3,
+			["_ActorTable"] = {
+			},
+		}, -- [2]
+		{
+			["tipo"] = 7,
+			["_ActorTable"] = {
+			},
+		}, -- [3]
+		{
+			["tipo"] = 9,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1047,
+					["buff_uptime_targets"] = {
+					},
+					["spec"] = 70,
+					["grupo"] = true,
+					["last_event"] = 0,
+					["pets"] = {
+					},
+					["nome"] = "Alinaa",
+					["buff_uptime"] = 3,
+					["classe"] = "PALADIN",
+					["tipo"] = 4,
+					["buff_uptime_spells"] = {
+						["_ActorTable"] = {
+							[93795] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 93795,
+								["uptime"] = 1,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[32223] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 32223,
+								["uptime"] = 1,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[23214] = {
+								["id"] = 23214,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[269083] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 269083,
+								["uptime"] = 1,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+						["tipo"] = 9,
+					},
+					["serial"] = "Player-3702-098A5EE7",
+					["aID"] = "3702-098A5EE7",
+				}, -- [1]
+			},
+		}, -- [4]
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [5]
+		["raid_roster"] = {
+		},
+		["tempo_start"] = 1607993065,
+		["last_events_tables"] = {
+		},
+		["alternate_power"] = {
+		},
+		["spells_cast_timeline"] = {
+		},
+		["combat_counter"] = 1767,
+		["totals"] = {
+			117.011272, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["cooldowns_defensive"] = 0,
+				["dispell"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+			["frags_total"] = 0,
+			["voidzone_damage"] = 0,
+		},
+		["player_last_events"] = {
+		},
+		["frags_need_refresh"] = false,
+		["aura_timeline"] = {
+		},
+		["__call"] = {
+		},
+		["data_inicio"] = "01:44:26",
+		["end_time"] = 126959.994,
+		["cleu_events"] = {
+			["n"] = 1,
+		},
+		["totals_grupo"] = {
+			117.003034, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["cooldowns_defensive"] = 0,
+				["dispell"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+		},
+		["overall_refreshed"] = true,
+		["frags"] = {
+		},
+		["hasSaved"] = true,
+		["segments_added"] = {
+			{
+				["elapsed"] = 0.9130000000004657,
+				["type"] = 0,
+				["name"] = "Squirrel",
+				["clock"] = "01:44:26",
+			}, -- [1]
+		},
+		["data_fim"] = "01:44:27",
+		["overall_enemy_name"] = "Squirrel",
+		["CombatSkillCache"] = {
+		},
+		["PhaseData"] = {
+			{
+				1, -- [1]
+				1, -- [2]
+			}, -- [1]
+			["damage_section"] = {
+			},
+			["heal_section"] = {
+			},
+			["heal"] = {
+			},
+			["damage"] = {
+			},
+		},
+		["start_time"] = 126959.081,
+		["TimeData"] = {
+			["Raid Damage Done"] = {
+			},
+		},
+		["cleu_timeline"] = {
+		},
+	},
+	["force_font_outline"] = "",
+	["local_instances_config"] = {
+		{
+			["modo"] = 2,
+			["sub_attribute"] = 1,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["is_open"] = true,
+			["isLocked"] = false,
+			["snap"] = {
+			},
+			["segment"] = 0,
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -284.6879272460938,
+					["x"] = 267.001220703125,
+					["w"] = 267.2597351074219,
+					["h"] = 123.904899597168,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [1]
+	},
+	["character_data"] = {
+		["logons"] = 63,
+	},
+	["announce_cooldowns"] = {
+		["enabled"] = false,
+		["ignored_cooldowns"] = {
+		},
+		["custom"] = "",
+		["channel"] = "RAID",
+	},
+	["rank_window"] = {
+		["last_difficulty"] = 15,
+		["last_raid"] = "",
+	},
+	["announce_damagerecord"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["cached_specs"] = {
+		["Player-3702-098A5EE7"] = 70,
+		["Player-3702-09ECE8DB"] = 264,
+	},
+}

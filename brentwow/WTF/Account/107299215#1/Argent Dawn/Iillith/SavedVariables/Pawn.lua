@@ -1,0 +1,88 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0417,
+	["LastPlayerFullName"] = "Iillith-Argent Dawn",
+	["AutoSelectScales"] = true,
+	["ItemLevels"] = {
+		{
+			["ID"] = 122250,
+			["Level"] = 37,
+			["Link"] = "|cff00ccff|Hitem:122250::::::::32:266:::1:582::::|h[Tattered Dreadmist Mask]|h|r",
+		}, -- [1]
+		{
+			["ID"] = 51996,
+			["Level"] = 37,
+			["Link"] = "|cff0070dd|Hitem:51996::::::::32:266::1:2:4244:1679:2:28:1693:9:32:::|h[Tumultuous Necklace of the Quickblade]|h|r",
+		}, -- [2]
+		{
+			["ID"] = 122378,
+			["Level"] = 37,
+			["Link"] = "|cff00ccff|Hitem:122378::::::::32:266:::::::|h[Exquisite Sunderseer Mantle]|h|r",
+		}, -- [3]
+		nil, -- [4]
+		{
+			["ID"] = 122384,
+			["Level"] = 37,
+			["Link"] = "|cff00ccff|Hitem:122384::::::::32:266:::1:582::::|h[Tattered Dreadmist Robe]|h|r",
+		}, -- [5]
+		{
+			["ID"] = 51968,
+			["Level"] = 34,
+			["Link"] = "|cff0070dd|Hitem:51968::::::::29:266::1:2:4244:1678:2:28:1693:9:29:::|h[Enumerated Wrap of the Quickblade]|h|r",
+		}, -- [6]
+		{
+			["ID"] = 122256,
+			["Level"] = 37,
+			["Link"] = "|cff00ccff|Hitem:122256::::::::32:266:::::::|h[Tattered Dreadmist Leggings]|h|r",
+		}, -- [7]
+		{
+			["ID"] = 13530,
+			["Level"] = 29,
+			["Link"] = "|cff0070dd|Hitem:13530::::::::25:266::1:1:4052:1:9:23:::|h[Fangdrip Runners]|h|r",
+		}, -- [8]
+		{
+			["ID"] = 65918,
+			["Level"] = 32,
+			["Link"] = "|cff0070dd|Hitem:65918::::::::28:266::11:1:6710:2:28:1918:9:27:::|h[Agamaggan's Gift]|h|r",
+		}, -- [9]
+		{
+			["ID"] = 51973,
+			["Level"] = 36,
+			["Link"] = "|cff0070dd|Hitem:51973::::::::30:266::1:2:4244:1691:2:28:1693:9:30:::|h[Enumerated Handwraps of the Fireflash]|h|r",
+		}, -- [10]
+		{
+			["ID"] = 60938,
+			["Level"] = 25,
+			["AlsoFitsIn"] = 12,
+			["Link"] = "|cff0070dd|Hitem:60938::::::::25:266::11:1:3723:1:9:20:::|h[Yorgen's Boon]|h|r",
+		}, -- [11]
+		{
+			["ID"] = 60938,
+			["Level"] = 25,
+			["AlsoFitsIn"] = 11,
+			["Link"] = "|cff0070dd|Hitem:60938::::::::26:266::11:1:3723:1:9:20:::|h[Yorgen's Boon]|h|r",
+		}, -- [12]
+		[16] = {
+			["ID"] = 10836,
+			["Level"] = 36,
+			["Link"] = "|cff0070dd|Hitem:10836::::::::30:266::1:1:6710:2:28:1923:9:30:::|h[Rod of Corrosion]|h|r",
+		},
+		[15] = {
+			["ID"] = 122262,
+			["Level"] = 37,
+			["Link"] = "|cff00ccff|Hitem:122262::::::::32:266:::1:582::::|h[Ancient Bloodmoon Cloak]|h|r",
+		},
+		[17] = {
+			["ID"] = 3184,
+			["Level"] = 36,
+			["AlsoFitsIn"] = 16,
+			["Link"] = "|cff1eff00|Hitem:3184::::::::32:266::1:2:6655:1693:2:28:1901:9:31:::|h[Hook Dagger of the Fireflash]|h|r",
+		},
+	},
+	["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "WARLOCK",
+	["LastAdded"] = 1,
+}
+PawnClassicScaleProviderOptions = nil

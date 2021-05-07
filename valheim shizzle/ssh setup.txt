@@ -1,0 +1,11 @@
+delete worlds folder !! 
+
+Set-ExecutionPolicy unrestricted
+
+
+
+
+cat id_rsa.pub | clip
+
+
+Set-ExecutionPolicy restricted

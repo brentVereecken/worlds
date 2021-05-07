@@ -1,0 +1,94 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0328,
+	["LastPlayerFullName"] = "Vayegra-Magtheridon",
+	["AutoSelectScales"] = true,
+	["ItemLevels"] = {
+		{
+			["ID"] = 122248,
+			["Level"] = 95,
+			["Link"] = "|cff00ccff|Hitem:122248::::::::76:103:::1:582:::|h[Stained Shadowcraft Cap]|h|r",
+		}, -- [1]
+		{
+			["ID"] = 122666,
+			["Level"] = 95,
+			["Link"] = "|cff00ccff|Hitem:122666::::::::76:103::::::|h[Eternal Woven Ivy Necklace]|h|r",
+		}, -- [2]
+		{
+			["ID"] = 122376,
+			["Level"] = 95,
+			["Link"] = "|cff00ccff|Hitem:122376::::::::76:103:::1:582:::|h[Exceptional Stormshroud Shoulders]|h|r",
+		}, -- [3]
+		nil, -- [4]
+		{
+			["ID"] = 122383,
+			["Level"] = 95,
+			["Link"] = "|cff00ccff|Hitem:122383::::::::76:103:::1:582:::|h[Stained Shadowcraft Tunic]|h|r",
+		}, -- [5]
+		{
+			["ID"] = 65954,
+			["Level"] = 48,
+			["Link"] = "|cff0070dd|Hitem:65954::::::::71:103::11::::|h[Belt of the Deep]|h|r",
+		}, -- [6]
+		{
+			["ID"] = 122255,
+			["Level"] = 95,
+			["Link"] = "|cff00ccff|Hitem:122255::::::::76:103::::::|h[Preened Wildfeather Leggings]|h|r",
+		}, -- [7]
+		{
+			["ID"] = 51963,
+			["Level"] = 97,
+			["Link"] = "|cff0070dd|Hitem:51963::::::::76:103:512:18:2:1679:4243:76:::|h[Vigorous Stompers of the Quickblade]|h|r",
+		}, -- [8]
+		{
+			["ID"] = 28171,
+			["Level"] = 95,
+			["Link"] = "|cff0070dd|Hitem:28171::::::::75:103:512:11:1:4091:75:::|h[Spymistress' Wristguards]|h|r",
+		}, -- [9]
+		{
+			["ID"] = 44364,
+			["Level"] = 89,
+			["Link"] = "|cff0070dd|Hitem:44364::::::::75:103:512:11:1:4113:72:::|h[Wraps of Quelled Bane]|h|r",
+		}, -- [10]
+		{
+			["ID"] = 25048,
+			["Level"] = 65,
+			["AlsoFitsIn"] = 12,
+			["Link"] = "|cff1eff00|Hitem:25048::::::::71:103::1:1:1694:::|h[Smoky Quartz Ring of the Fireflash]|h|r",
+		}, -- [11]
+		{
+			["ID"] = 25048,
+			["Level"] = 65,
+			["AlsoFitsIn"] = 11,
+			["Link"] = "|cff1eff00|Hitem:25048::::::::71:102::1:1:1694:::|h[Smoky Quartz Ring of the Fireflash]|h|r",
+		}, -- [12]
+		{
+			["ID"] = 122362,
+			["Level"] = 95,
+			["AlsoFitsIn"] = 14,
+			["Link"] = "|cff00ccff|Hitem:122362::::::::76:103::::::|h[Discerning Eye of the Beast]|h|r",
+		}, -- [13]
+		{
+			["ID"] = 122361,
+			["Level"] = 95,
+			["AlsoFitsIn"] = 13,
+			["Link"] = "|cff00ccff|Hitem:122361::::::::76:103::::::|h[Swift Hand of Justice]|h|r",
+		}, -- [14]
+		{
+			["ID"] = 122261,
+			["Level"] = 95,
+			["Link"] = "|cff00ccff|Hitem:122261::::::::76:103:::1:582:::|h[Inherited Cape of the Black Baron]|h|r",
+		}, -- [15]
+		{
+			["ID"] = 27903,
+			["Level"] = 97,
+			["Link"] = "|cff0070dd|Hitem:27903::::::::76:103:512:1:1:4091:76:::|h[Sonic Spear]|h|r",
+		}, -- [16]
+	},
+	["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "DRUID",
+	["LastAdded"] = 1,
+}
+PawnClassicScaleProviderOptions = nil

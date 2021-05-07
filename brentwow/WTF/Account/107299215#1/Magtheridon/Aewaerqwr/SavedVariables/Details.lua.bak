@@ -1,0 +1,2950 @@
+
+_detalhes_database = {
+	["savedbuffs"] = {
+	},
+	["mythic_dungeon_id"] = 0,
+	["tabela_historico"] = {
+		["tabelas"] = {
+			{
+				{
+					["combatId"] = 56,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.001078,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Stonetusk Boar"] = 50979,
+							},
+							["total"] = 50979.001078,
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["classe"] = "MAGE",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 50979.001078,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1592223376,
+							["friendlyfire_total"] = 0,
+							["spec"] = 64,
+							["nome"] = "Aewaerqwr",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 364,
+										["g_amt"] = 0,
+										["n_max"] = 145,
+										["targets"] = {
+											["Stonetusk Boar"] = 509,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 145,
+										["n_min"] = 145,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 509,
+										["c_max"] = 364,
+										["spellschool"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 364,
+									}, -- [1]
+									[228598] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 50470,
+										["targets"] = {
+											["Stonetusk Boar"] = 50470,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 50470,
+										["n_min"] = 50470,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 50470,
+										["c_max"] = 0,
+										["spellschool"] = 16,
+										["id"] = 228598,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-3681-09B0459C",
+							["last_dps"] = 14945.47085253566,
+							["custom"] = 0,
+							["last_event"] = 1592223375,
+							["damage_taken"] = 0.001078,
+							["start_time"] = 1592223372,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 0.005664,
+							["damage_from"] = {
+								["Aewaerqwr"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.005664,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.005664,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3893-0-187-113-000067616A",
+							["nome"] = "Stonetusk Boar",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Aewaerqwr"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["MISS"] = 2,
+										["total"] = 0,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									}, -- [1]
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1592223376,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 50979.005664,
+							["start_time"] = 1592223376,
+							["delay"] = 0,
+							["last_event"] = 1592223374,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 56,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 56,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 56,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["nome"] = "Aewaerqwr",
+							["spec"] = 64,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[30455] = 1,
+							},
+							["pets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 12,
+							["tipo"] = 4,
+							["last_event"] = 1592223376,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[1459] = {
+										["activedamt"] = 1,
+										["id"] = 1459,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[225787] = {
+										["activedamt"] = 1,
+										["id"] = 225787,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-3681-09B0459C",
+							["classe"] = "MAGE",
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 56,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Aewaerqwr"] = true,
+				},
+				["CombatStartedAt"] = 4441.523,
+				["tempo_start"] = 1592223372,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 79,
+				["playing_solo"] = true,
+				["totals"] = {
+					50979, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["totals_grupo"] = {
+					50979, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "14:16:16",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Stonetusk Boar",
+				["TotalElapsedCombatTime"] = 3.411000000000058,
+				["CombatEndedAt"] = 4444.934,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Aewaerqwr"] = 50979.001078,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 4444.934,
+				["combat_id"] = 56,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["spells_cast_timeline"] = {
+				},
+				["overall_added"] = true,
+				["player_last_events"] = {
+				},
+				["CombatSkillCache"] = {
+				},
+				["data_inicio"] = "14:16:12",
+				["start_time"] = 4441.523,
+				["TimeData"] = {
+				},
+				["frags"] = {
+					["Stonetusk Boar"] = 1,
+				},
+			}, -- [1]
+			{
+				{
+					["combatId"] = 55,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.001314,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Stonetusk Boar"] = 61419,
+							},
+							["total"] = 61419.001314,
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["classe"] = "MAGE",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 61419.001314,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1592223252,
+							["friendlyfire_total"] = 0,
+							["spec"] = 64,
+							["nome"] = "Aewaerqwr",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[228597] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 61419,
+										["targets"] = {
+											["Stonetusk Boar"] = 61419,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 61419,
+										["n_min"] = 61419,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 61419,
+										["c_max"] = 0,
+										["spellschool"] = 16,
+										["id"] = 228597,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-3681-09B0459C",
+							["last_dps"] = 54161.37682014857,
+							["custom"] = 0,
+							["last_event"] = 1592223250,
+							["damage_taken"] = 0.001314,
+							["start_time"] = 1592223250,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 0.002881,
+							["damage_from"] = {
+								["Aewaerqwr"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.002881,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.002881,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3893-0-187-113-0000675FE4",
+							["nome"] = "Stonetusk Boar",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1592223252,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 61419.002881,
+							["start_time"] = 1592223252,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 55,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 55,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 55,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 64,
+							["grupo"] = true,
+							["buff_uptime"] = 10,
+							["nome"] = "Aewaerqwr",
+							["pets"] = {
+							},
+							["last_event"] = 1592223252,
+							["classe"] = "MAGE",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[225787] = {
+										["activedamt"] = 1,
+										["id"] = 225787,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[190446] = {
+										["activedamt"] = 1,
+										["id"] = 190446,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[1459] = {
+										["activedamt"] = 1,
+										["id"] = 1459,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[205473] = {
+										["activedamt"] = 1,
+										["id"] = 205473,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-3681-09B0459C",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 55,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Aewaerqwr"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["overall_added"] = true,
+				["cleu_timeline"] = {
+				},
+				["alternate_power"] = {
+				},
+				["tempo_start"] = 1592223250,
+				["enemy"] = "Stonetusk Boar",
+				["combat_counter"] = 78,
+				["playing_solo"] = true,
+				["totals"] = {
+					61418.985171, -- [1]
+					0, -- [2]
+					{
+						-0.007432999999998913, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatEndedAt"] = 4321.025,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "14:14:11",
+				["end_time"] = 4321.025,
+				["totals_grupo"] = {
+					61419, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["combat_id"] = 55,
+				["TotalElapsedCombatTime"] = 4321.025,
+				["frags_need_refresh"] = true,
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Aewaerqwr"] = 61419.001314,
+						}, -- [1]
+					},
+				},
+				["frags"] = {
+					["Stonetusk Boar"] = 1,
+				},
+				["data_fim"] = "14:14:12",
+				["instance_type"] = "none",
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 4319.891000000001,
+				["TimeData"] = {
+				},
+				["pvp"] = true,
+			}, -- [2]
+			{
+				{
+					["combatId"] = 54,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.002394,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Stonetusk Boar"] = 61401,
+							},
+							["total"] = 61401.002394,
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["classe"] = "MAGE",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 61401.002394,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1592223247,
+							["friendlyfire_total"] = 0,
+							["spec"] = 64,
+							["nome"] = "Aewaerqwr",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[228597] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 61401,
+										["targets"] = {
+											["Stonetusk Boar"] = 61401,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 61401,
+										["n_min"] = 61401,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 61401,
+										["c_max"] = 0,
+										["spellschool"] = 16,
+										["id"] = 228597,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-3681-09B0459C",
+							["last_dps"] = 614010.02394,
+							["custom"] = 0,
+							["last_event"] = 1592223246,
+							["damage_taken"] = 0.002394,
+							["start_time"] = 1592223246,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 0.002246,
+							["damage_from"] = {
+								["Aewaerqwr"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.002246,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.002246,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3893-0-187-113-00006762B2",
+							["nome"] = "Stonetusk Boar",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1592223247,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 61401.002246,
+							["start_time"] = 1592223247,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 54,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 54,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 54,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 64,
+							["grupo"] = true,
+							["buff_uptime"] = 4,
+							["nome"] = "Aewaerqwr",
+							["pets"] = {
+							},
+							["last_event"] = 1592223247,
+							["classe"] = "MAGE",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[1459] = {
+										["activedamt"] = 1,
+										["id"] = 1459,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[205473] = {
+										["activedamt"] = 1,
+										["id"] = 205473,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[225787] = {
+										["activedamt"] = 1,
+										["id"] = 225787,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-3681-09B0459C",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 54,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Aewaerqwr"] = true,
+				},
+				["CombatStartedAt"] = 4319.169,
+				["tempo_start"] = 1592223246,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 77,
+				["playing_solo"] = true,
+				["totals"] = {
+					61401, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["totals_grupo"] = {
+					61401, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "14:14:07",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Stonetusk Boar",
+				["TotalElapsedCombatTime"] = 4316.558,
+				["CombatEndedAt"] = 4316.558,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Aewaerqwr"] = 61401.002394,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 4316.558,
+				["combat_id"] = 54,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["spells_cast_timeline"] = {
+				},
+				["overall_added"] = true,
+				["player_last_events"] = {
+				},
+				["CombatSkillCache"] = {
+				},
+				["data_inicio"] = "14:14:06",
+				["start_time"] = 4315.358,
+				["TimeData"] = {
+				},
+				["frags"] = {
+					["Stonetusk Boar"] = 1,
+				},
+			}, -- [3]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 53,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.004433,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Stonetusk Boar"] = 302862,
+							},
+							["pets"] = {
+							},
+							["delay"] = 0,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 302862.004433,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["dps_started"] = false,
+							["total"] = 302862.004433,
+							["classe"] = "MAGE",
+							["spells"] = {
+								["_ActorTable"] = {
+									[228598] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 302862,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Stonetusk Boar"] = 302862,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 302862,
+										["c_max"] = 302862,
+										["c_min"] = 302862,
+										["id"] = 228598,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 16,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["nome"] = "Aewaerqwr",
+							["spec"] = 64,
+							["grupo"] = true,
+							["end_time"] = 1592170894,
+							["damage_taken"] = 0.004433,
+							["last_dps"] = 219465.2206040398,
+							["colocacao"] = 1,
+							["last_event"] = 1592170893,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1592170893,
+							["serial"] = "Player-3681-09B0459C",
+							["on_hold"] = false,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 0.006731,
+							["damage_from"] = {
+								["Aewaerqwr"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.006731,
+							["last_event"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.006731,
+							["delay"] = 0,
+							["classe"] = "UNKNOW",
+							["nome"] = "Stonetusk Boar",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["damage_taken"] = 302862.006731,
+							["end_time"] = 1592170894,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1592170894,
+							["serial"] = "Creature-0-3893-0-187-113-00006696A3",
+							["dps_started"] = false,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 53,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 53,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 53,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["nome"] = "Aewaerqwr",
+							["spec"] = 64,
+							["grupo"] = true,
+							["pets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 4,
+							["classe"] = "MAGE",
+							["tipo"] = 4,
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[326419] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 326419,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[1459] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 1459,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[225787] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 225787,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[205473] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 205473,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["serial"] = "Player-3681-09B0459C",
+							["last_event"] = 1592170894,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 53,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Aewaerqwr"] = true,
+				},
+				["CombatStartedAt"] = 4314.92,
+				["tempo_start"] = 1592170893,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["playing_solo"] = true,
+				["totals"] = {
+					302861.975726, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = -0.003695,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["totals_grupo"] = {
+					302862, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "23:41:34",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Stonetusk Boar",
+				["TotalElapsedCombatTime"] = 22377.21,
+				["CombatEndedAt"] = 22377.21,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "23:41:33",
+				["end_time"] = 22377.21,
+				["combat_id"] = 53,
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Aewaerqwr"] = 302862.004433,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["frags"] = {
+					["Stonetusk Boar"] = 1,
+				},
+				["overall_added"] = true,
+				["combat_counter"] = 75,
+				["CombatSkillCache"] = {
+				},
+				["player_last_events"] = {
+				},
+				["start_time"] = 22375.83,
+				["TimeData"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+			}, -- [4]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 52,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.006383,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Princess"] = 61426,
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["custom"] = 0,
+							["tipo"] = 1,
+							["classe"] = "MAGE",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 61426.006383,
+							["friendlyfire_total"] = 0,
+							["dps_started"] = false,
+							["total"] = 61426.006383,
+							["damage_taken"] = 0.006383,
+							["spells"] = {
+								["_ActorTable"] = {
+									[228597] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 61426,
+										["targets"] = {
+											["Princess"] = 61426,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 61426,
+										["n_min"] = 61426,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 61426,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 228597,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 16,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["nome"] = "Aewaerqwr",
+							["spec"] = 64,
+							["grupo"] = true,
+							["last_dps"] = 367820.3975001735,
+							["end_time"] = 1592170884,
+							["colocacao"] = 1,
+							["last_event"] = 1592170883,
+							["on_hold"] = false,
+							["start_time"] = 1592170883,
+							["serial"] = "Player-3681-09B0459C",
+							["friendlyfire"] = {
+							},
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 0.005441,
+							["damage_from"] = {
+								["Aewaerqwr"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.005441,
+							["last_event"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.005441,
+							["delay"] = 0,
+							["classe"] = "UNKNOW",
+							["nome"] = "Princess",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["damage_taken"] = 61426.005441,
+							["end_time"] = 1592170884,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1592170884,
+							["serial"] = "Creature-0-3893-0-187-330-0000669948",
+							["dps_started"] = false,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 52,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 52,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 52,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["nome"] = "Aewaerqwr",
+							["spec"] = 64,
+							["grupo"] = true,
+							["pets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 4,
+							["classe"] = "MAGE",
+							["tipo"] = 4,
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[326419] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 326419,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[1459] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 1459,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[225787] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 225787,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[205473] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 205473,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["serial"] = "Player-3681-09B0459C",
+							["last_event"] = 1592170884,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 52,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Aewaerqwr"] = true,
+				},
+				["CombatStartedAt"] = 22375.561,
+				["tempo_start"] = 1592170883,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["playing_solo"] = true,
+				["totals"] = {
+					61426, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "23:41:24",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Princess",
+				["TotalElapsedCombatTime"] = 22367.472,
+				["CombatEndedAt"] = 22367.472,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "23:41:23",
+				["end_time"] = 22367.472,
+				["combat_id"] = 52,
+				["overall_added"] = true,
+				["spells_cast_timeline"] = {
+				},
+				["frags"] = {
+					["Princess"] = 1,
+				},
+				["combat_counter"] = 74,
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					61426, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 22366.283,
+				["TimeData"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Aewaerqwr"] = 61426.006383,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+			}, -- [5]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 51,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.008387,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Stonetusk Boar"] = 122843,
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["custom"] = 0,
+							["tipo"] = 1,
+							["classe"] = "MAGE",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 122843.008387,
+							["friendlyfire_total"] = 0,
+							["dps_started"] = false,
+							["total"] = 122843.008387,
+							["damage_taken"] = 0.008387,
+							["spells"] = {
+								["_ActorTable"] = {
+									[228597] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 122843,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Stonetusk Boar"] = 122843,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 122843,
+										["c_max"] = 122843,
+										["c_min"] = 122843,
+										["id"] = 228597,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 16,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["nome"] = "Aewaerqwr",
+							["spec"] = 64,
+							["grupo"] = true,
+							["last_dps"] = 787455.1819727967,
+							["end_time"] = 1592170840,
+							["colocacao"] = 1,
+							["last_event"] = 1592170838,
+							["on_hold"] = false,
+							["start_time"] = 1592170838,
+							["serial"] = "Player-3681-09B0459C",
+							["friendlyfire"] = {
+							},
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 0.004157,
+							["damage_from"] = {
+								["Aewaerqwr"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.004157,
+							["last_event"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.004157,
+							["delay"] = 0,
+							["classe"] = "UNKNOW",
+							["nome"] = "Stonetusk Boar",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["damage_taken"] = 122843.004157,
+							["end_time"] = 1592170840,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1592170840,
+							["serial"] = "Creature-0-3893-0-187-113-00006696DC",
+							["dps_started"] = false,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 51,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 51,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 51,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["nome"] = "Aewaerqwr",
+							["spec"] = 64,
+							["grupo"] = true,
+							["pets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 8,
+							["classe"] = "MAGE",
+							["tipo"] = 4,
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[326419] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 326419,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[1459] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 1459,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[225787] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 225787,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[205473] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 205473,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["serial"] = "Player-3681-09B0459C",
+							["last_event"] = 1592170840,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 51,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Aewaerqwr"] = true,
+				},
+				["CombatStartedAt"] = 22365.416,
+				["tempo_start"] = 1592170838,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["playing_solo"] = true,
+				["totals"] = {
+					122843, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "23:40:40",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Stonetusk Boar",
+				["TotalElapsedCombatTime"] = 22322.888,
+				["CombatEndedAt"] = 22322.888,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "23:40:39",
+				["end_time"] = 22322.888,
+				["combat_id"] = 51,
+				["overall_added"] = true,
+				["spells_cast_timeline"] = {
+				},
+				["frags"] = {
+					["Stonetusk Boar"] = 1,
+				},
+				["combat_counter"] = 73,
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					122843, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 22321.687,
+				["TimeData"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Aewaerqwr"] = 122843.008387,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+			}, -- [6]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 50,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.001324,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Stonetusk Boar"] = 122848,
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["custom"] = 0,
+							["tipo"] = 1,
+							["classe"] = "MAGE",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 122848.001324,
+							["friendlyfire_total"] = 0,
+							["dps_started"] = false,
+							["total"] = 122848.001324,
+							["damage_taken"] = 0.001324,
+							["spells"] = {
+								["_ActorTable"] = {
+									[228597] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 122848,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Stonetusk Boar"] = 122848,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 122848,
+										["c_max"] = 122848,
+										["c_min"] = 122848,
+										["id"] = 228597,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 16,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["nome"] = "Aewaerqwr",
+							["spec"] = 64,
+							["grupo"] = true,
+							["last_dps"] = 1228480.01324,
+							["end_time"] = 1592170837,
+							["colocacao"] = 1,
+							["last_event"] = 1592170835,
+							["on_hold"] = false,
+							["start_time"] = 1592170835,
+							["serial"] = "Player-3681-09B0459C",
+							["friendlyfire"] = {
+							},
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 0.00746,
+							["damage_from"] = {
+								["Aewaerqwr"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.00746,
+							["last_event"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.00746,
+							["delay"] = 0,
+							["classe"] = "UNKNOW",
+							["nome"] = "Stonetusk Boar",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["damage_taken"] = 122848.00746,
+							["end_time"] = 1592170837,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1592170837,
+							["serial"] = "Creature-0-3893-0-187-113-00006696D5",
+							["dps_started"] = false,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 50,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 50,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 50,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["nome"] = "Aewaerqwr",
+							["spec"] = 64,
+							["grupo"] = true,
+							["pets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 8,
+							["classe"] = "MAGE",
+							["tipo"] = 4,
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[326419] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 326419,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[1459] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 1459,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[225787] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 225787,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[205473] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 205473,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["serial"] = "Player-3681-09B0459C",
+							["last_event"] = 1592170837,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 50,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Aewaerqwr"] = true,
+				},
+				["CombatStartedAt"] = 22321.287,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["playing_solo"] = true,
+				["totals"] = {
+					122848, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["totals_grupo"] = {
+					122848, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "23:40:37",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Stonetusk Boar",
+				["TotalElapsedCombatTime"] = 22320.076,
+				["CombatEndedAt"] = 22320.076,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "23:40:36",
+				["end_time"] = 22320.076,
+				["combat_id"] = 50,
+				["player_last_events"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["tempo_start"] = 1592170835,
+				["frags"] = {
+					["Stonetusk Boar"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["combat_counter"] = 72,
+				["start_time"] = 22318.569,
+				["TimeData"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Aewaerqwr"] = 122848.001324,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+			}, -- [7]
+		},
+	},
+	["last_version"] = "v8.3.0.7335",
+	["SoloTablesSaved"] = {
+		["Mode"] = 1,
+	},
+	["tabela_instancias"] = {
+	},
+	["on_death_menu"] = true,
+	["nick_tag_cache"] = {
+		["nextreset"] = 1592415714,
+		["last_version"] = 12,
+	},
+	["last_instance_id"] = 1949,
+	["announce_interrupts"] = {
+		["enabled"] = false,
+		["whisper"] = "",
+		["channel"] = "SAY",
+		["custom"] = "",
+		["next"] = "",
+	},
+	["last_instance_time"] = 1587568732,
+	["active_profile"] = "Vlaming-Twisting Nether",
+	["mythic_dungeon_currentsaved"] = {
+		["dungeon_name"] = "",
+		["started"] = false,
+		["segment_id"] = 0,
+		["ej_id"] = 0,
+		["started_at"] = 0,
+		["run_id"] = 0,
+		["level"] = 0,
+		["dungeon_zone_id"] = 0,
+		["previous_boss_killed_at"] = 0,
+	},
+	["ignore_nicktag"] = false,
+	["plugin_database"] = {
+		["DETAILS_PLUGIN_TINY_THREAT"] = {
+			["updatespeed"] = 1,
+			["enabled"] = true,
+			["showamount"] = false,
+			["useplayercolor"] = false,
+			["author"] = "Details! Team",
+			["useclasscolors"] = false,
+			["playercolor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			},
+			["animate"] = false,
+		},
+		["DETAILS_PLUGIN_RAIDCHECK"] = {
+			["enabled"] = true,
+			["food_tier1"] = true,
+			["mythic_1_4"] = true,
+			["food_tier2"] = true,
+			["author"] = "Details! Team",
+			["use_report_panel"] = true,
+			["pre_pot_healers"] = false,
+			["pre_pot_tanks"] = false,
+			["food_tier3"] = true,
+		},
+		["DETAILS_PLUGIN_VANGUARD"] = {
+			["enabled"] = true,
+			["tank_block_color"] = {
+				0.24705882, -- [1]
+				0.0039215, -- [2]
+				0, -- [3]
+				0.8, -- [4]
+			},
+			["tank_block_texture"] = "Details Serenity",
+			["show_inc_bars"] = false,
+			["author"] = "Details! Team",
+			["first_run"] = false,
+			["tank_block_size"] = 150,
+		},
+		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
+			["enabled"] = true,
+			["encounter_timers_bw"] = {
+			},
+			["max_emote_segments"] = 3,
+			["author"] = "Details! Team",
+			["window_scale"] = 1,
+			["encounter_timers_dbm"] = {
+			},
+			["show_icon"] = 5,
+			["opened"] = 0,
+			["hide_on_combat"] = false,
+		},
+		["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
+			["font_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["is_first_run"] = false,
+			["arrow_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.5, -- [4]
+			},
+			["main_frame_size"] = {
+				300, -- [1]
+				500.0000305175781, -- [2]
+			},
+			["minimap"] = {
+				["minimapPos"] = 353.3370404469839,
+				["radius"] = 160,
+				["hide"] = false,
+			},
+			["arrow_anchor_x"] = 0,
+			["row_texture"] = "Details Serenity",
+			["arrow_anchor_y"] = 0,
+			["main_frame_locked"] = false,
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
+			["enabled"] = false,
+			["arrow_size"] = 10,
+			["per_second"] = {
+				["enabled"] = false,
+				["point"] = "CENTER",
+				["scale"] = 1,
+				["font_shadow"] = true,
+				["y"] = 0,
+				["x"] = 3.0517578125e-05,
+				["attribute_type"] = 1,
+				["update_speed"] = 0.05,
+				["size"] = 32,
+			},
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["main_frame_strata"] = "LOW",
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["font_size"] = 10,
+			["use_spark"] = true,
+			["x"] = 0,
+			["font_face"] = "Friz Quadrata TT",
+			["y"] = 7.62939453125e-06,
+			["author"] = "Details! Team",
+			["point"] = "CENTER",
+			["row_height"] = 20,
+			["scale"] = 1,
+		},
+	},
+	["cached_talents"] = {
+	},
+	["announce_prepots"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+		["reverse"] = false,
+	},
+	["last_day"] = "15",
+	["benchmark_db"] = {
+		["frame"] = {
+		},
+	},
+	["character_data"] = {
+		["logons"] = 16,
+	},
+	["combat_id"] = 56,
+	["savedStyles"] = {
+	},
+	["local_instances_config"] = {
+		{
+			["segment"] = 0,
+			["sub_attribute"] = 1,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["is_open"] = true,
+			["isLocked"] = false,
+			["snap"] = {
+			},
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -497.7500152587891,
+					["x"] = 430.03515625,
+					["w"] = 247.5004119873047,
+					["h"] = 196.1666870117188,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [1]
+	},
+	["force_font_outline"] = "",
+	["announce_deaths"] = {
+		["enabled"] = false,
+		["last_hits"] = 1,
+		["only_first"] = 5,
+		["where"] = 1,
+	},
+	["tabela_overall"] = {
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1297,
+					["totalabsorbed"] = 0.032316,
+					["total"] = 783778.032316,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["Princess"] = 61426,
+						["Stonetusk Boar"] = 722352,
+					},
+					["pets"] = {
+					},
+					["damage_taken"] = 0.032316,
+					["classe"] = "MAGE",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 783778.032316,
+					["tipo"] = 1,
+					["dps_started"] = false,
+					["end_time"] = 1592170837,
+					["friendlyfire_total"] = 0,
+					["delay"] = 0,
+					["nome"] = "Aewaerqwr",
+					["spec"] = 64,
+					["grupo"] = true,
+					["on_hold"] = false,
+					["last_dps"] = 0,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["start_time"] = 1592170821,
+					["serial"] = "Player-3681-09B0459C",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 364,
+								["g_amt"] = 0,
+								["n_max"] = 145,
+								["targets"] = {
+									["Stonetusk Boar"] = 509,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 145,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 2,
+								["total"] = 509,
+								["c_max"] = 364,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 1,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[228598] = {
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 302862,
+								["g_amt"] = 0,
+								["n_max"] = 50470,
+								["targets"] = {
+									["Stonetusk Boar"] = 353332,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 50470,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 2,
+								["total"] = 353332,
+								["c_max"] = 302862,
+								["id"] = 228598,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 1,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[228597] = {
+								["c_amt"] = 2,
+								["b_amt"] = 0,
+								["c_dmg"] = 245691,
+								["g_amt"] = 0,
+								["n_max"] = 61426,
+								["targets"] = {
+									["Princess"] = 61426,
+									["Stonetusk Boar"] = 368511,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 184246,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 5,
+								["total"] = 429937,
+								["c_max"] = 122848,
+								["id"] = 228597,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 3,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+						},
+						["tipo"] = 2,
+					},
+				}, -- [1]
+				{
+					["flag_original"] = 68136,
+					["totalabsorbed"] = 0.03641800000000001,
+					["damage_from"] = {
+						["Aewaerqwr"] = true,
+					},
+					["targets"] = {
+					},
+					["pets"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.03641800000000001,
+					["damage_taken"] = 722352.036418,
+					["dps_started"] = false,
+					["total"] = 0.03641800000000001,
+					["tipo"] = 1,
+					["classe"] = "UNKNOW",
+					["nome"] = "Stonetusk Boar",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Aewaerqwr"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 2,
+								["total"] = 0,
+								["c_max"] = 0,
+								["MISS"] = 2,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+						},
+						["tipo"] = 2,
+					},
+					["last_dps"] = 0,
+					["fight_component"] = true,
+					["end_time"] = 1592170837,
+					["delay"] = 0,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["start_time"] = 1592170834,
+					["serial"] = "Creature-0-3893-0-187-113-00006696D5",
+					["on_hold"] = false,
+				}, -- [2]
+				{
+					["flag_original"] = 68136,
+					["totalabsorbed"] = 0.010994,
+					["damage_from"] = {
+						["Aewaerqwr"] = true,
+					},
+					["targets"] = {
+					},
+					["pets"] = {
+					},
+					["tipo"] = 1,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.010994,
+					["last_dps"] = 0,
+					["fight_component"] = true,
+					["end_time"] = 1592170884,
+					["delay"] = 0,
+					["friendlyfire_total"] = 0,
+					["nome"] = "Princess",
+					["spells"] = {
+						["_ActorTable"] = {
+						},
+						["tipo"] = 2,
+					},
+					["damage_taken"] = 61426.010994,
+					["total"] = 0.010994,
+					["friendlyfire"] = {
+					},
+					["custom"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
+					["start_time"] = 1592170881,
+					["serial"] = "Creature-0-3893-0-187-330-0000669948",
+					["dps_started"] = false,
+				}, -- [3]
+			},
+		}, -- [1]
+		{
+			["tipo"] = 3,
+			["_ActorTable"] = {
+			},
+		}, -- [2]
+		{
+			["tipo"] = 7,
+			["_ActorTable"] = {
+			},
+		}, -- [3]
+		{
+			["tipo"] = 9,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1047,
+					["nome"] = "Aewaerqwr",
+					["spec"] = 64,
+					["grupo"] = true,
+					["spell_cast"] = {
+						[30455] = 1,
+					},
+					["pets"] = {
+					},
+					["buff_uptime_targets"] = {
+					},
+					["buff_uptime"] = 50,
+					["tipo"] = 4,
+					["classe"] = "MAGE",
+					["buff_uptime_spells"] = {
+						["_ActorTable"] = {
+							[225787] = {
+								["counter"] = 0,
+								["activedamt"] = 7,
+								["appliedamt"] = 7,
+								["id"] = 225787,
+								["uptime"] = 13,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[190446] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 190446,
+								["uptime"] = 2,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[326419] = {
+								["counter"] = 0,
+								["activedamt"] = 7,
+								["appliedamt"] = 7,
+								["id"] = 326419,
+								["uptime"] = 13,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[1459] = {
+								["counter"] = 0,
+								["activedamt"] = 7,
+								["appliedamt"] = 7,
+								["id"] = 1459,
+								["uptime"] = 13,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[205473] = {
+								["counter"] = 0,
+								["activedamt"] = 6,
+								["appliedamt"] = 6,
+								["id"] = 205473,
+								["uptime"] = 9,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+						},
+						["tipo"] = 9,
+					},
+					["serial"] = "Player-3681-09B0459C",
+					["last_event"] = 0,
+				}, -- [1]
+			},
+		}, -- [4]
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [5]
+		["raid_roster"] = {
+		},
+		["tempo_start"] = 1592170835,
+		["last_events_tables"] = {
+		},
+		["alternate_power"] = {
+		},
+		["cleu_timeline"] = {
+		},
+		["combat_counter"] = 71,
+		["totals"] = {
+			783778.0598929999, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[6] = 0,
+				[3] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["dead"] = 0,
+				["cc_break"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["dispell"] = 0,
+				["cooldowns_defensive"] = 0,
+			}, -- [4]
+			["voidzone_damage"] = 0,
+			["frags_total"] = 0,
+		},
+		["player_last_events"] = {
+		},
+		["frags_need_refresh"] = false,
+		["aura_timeline"] = {
+		},
+		["__call"] = {
+		},
+		["data_inicio"] = "23:40:36",
+		["end_time"] = 4444.934,
+		["totals_grupo"] = {
+			783778.025313, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[6] = 0,
+				[3] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["dead"] = 0,
+				["cc_break"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["dispell"] = 0,
+				["cooldowns_defensive"] = 0,
+			}, -- [4]
+		},
+		["overall_refreshed"] = true,
+		["PhaseData"] = {
+			{
+				1, -- [1]
+				1, -- [2]
+			}, -- [1]
+			["damage"] = {
+			},
+			["heal_section"] = {
+			},
+			["heal"] = {
+			},
+			["damage_section"] = {
+			},
+		},
+		["segments_added"] = {
+			{
+				["elapsed"] = 3.411000000000058,
+				["type"] = 0,
+				["name"] = "Stonetusk Boar",
+				["clock"] = "14:16:12",
+			}, -- [1]
+			{
+				["elapsed"] = 1.133999999999105,
+				["type"] = 0,
+				["name"] = "Stonetusk Boar",
+				["clock"] = "14:14:11",
+			}, -- [2]
+			{
+				["elapsed"] = 1.199999999999818,
+				["type"] = 0,
+				["name"] = "Stonetusk Boar",
+				["clock"] = "14:14:06",
+			}, -- [3]
+			{
+				["elapsed"] = 1.379999999997381,
+				["type"] = 0,
+				["name"] = "Stonetusk Boar",
+				["clock"] = "23:41:33",
+			}, -- [4]
+			{
+				["elapsed"] = 1.189000000002125,
+				["type"] = 0,
+				["name"] = "Princess",
+				["clock"] = "23:41:23",
+			}, -- [5]
+			{
+				["elapsed"] = 1.200999999997293,
+				["type"] = 0,
+				["name"] = "Stonetusk Boar",
+				["clock"] = "23:40:39",
+			}, -- [6]
+			{
+				["elapsed"] = 1.507000000001426,
+				["type"] = 0,
+				["name"] = "Stonetusk Boar",
+				["clock"] = "23:40:36",
+			}, -- [7]
+		},
+		["hasSaved"] = true,
+		["spells_cast_timeline"] = {
+		},
+		["data_fim"] = "14:16:16",
+		["overall_enemy_name"] = "-- x -- x --",
+		["CombatSkillCache"] = {
+		},
+		["frags"] = {
+		},
+		["start_time"] = 4433.912000000003,
+		["TimeData"] = {
+			["Raid Damage Done"] = {
+			},
+		},
+		["cleu_events"] = {
+			["n"] = 1,
+		},
+	},
+	["combat_counter"] = 79,
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["last_realversion"] = 141,
+	["announce_cooldowns"] = {
+		["ignored_cooldowns"] = {
+		},
+		["enabled"] = false,
+		["custom"] = "",
+		["channel"] = "RAID",
+	},
+	["rank_window"] = {
+		["last_difficulty"] = 15,
+		["last_raid"] = "",
+	},
+	["announce_damagerecord"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["cached_specs"] = {
+		["Player-3681-09B0459C"] = 64,
+	},
+}

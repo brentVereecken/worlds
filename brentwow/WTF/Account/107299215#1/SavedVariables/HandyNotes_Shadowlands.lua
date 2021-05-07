@@ -1,0 +1,27 @@
+
+HandyNotes_ShadowlandsDB = {
+	["profileKeys"] = {
+		["Lightseeber - Argent Dawn"] = "Default",
+		["Lialina - Argent Dawn"] = "Default",
+		["Felreefer - Magtheridon"] = "Default",
+		["Vlaming - Twisting Nether"] = "Default",
+		["Doshi - Argent Dawn"] = "Default",
+		["Charmfarmlol - Argent Dawn"] = "Default",
+		["Monhan - Silvermoon"] = "Default",
+		["Iillith - Argent Dawn"] = "Default",
+		["Wyfu - Silvermoon"] = "Default",
+		["Alinaa - Argent Dawn"] = "Default",
+		["Irohasu - Magtheridon"] = "Default",
+		["Lialina - Silvermoon"] = "Default",
+		["Throated - Magtheridon"] = "Default",
+		["Shamanal - Silvermoon"] = "Default",
+		["Samsepiol - Silvermoon"] = "Default",
+		["Aramaki - Silvermoon"] = "Default",
+		["Robøt - Silvermoon"] = "Default",
+		["Gdsfgdfsggh - Twisting Nether"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
